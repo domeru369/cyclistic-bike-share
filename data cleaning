@@ -63,7 +63,7 @@ WHERE start_station_id IS NOT NULL
   AND end_lng IS NOT NULL
   AND ride_length >= 1 AND ride_length <= 1440
 	
-#further filtering
+#further cleaning
 SELECT DISTINCT(ride_id),
                 rideable_type,started_at,ended_at,start_station_name,
                 start_station_id,end_station_name,end_station_id,
