@@ -1,8 +1,3 @@
-
-
-
-
-```
 #final joined data
 #extracted data
 SELECT ride_id, 
@@ -81,10 +76,5 @@ WHERE LENGTH(ride_id) = 16
 SELECT COUNT (ride_id)
 FROM `case-study-419113.tripdata2020_case_study.final_joined_data2`
 #there are 3253617 rides
-```
 
-#get the number of rows
-SELECT COUNT (ride_id)
-FROM `case-study-419113.tripdata2020_case_study.final_joined_data2`
-#there are 3253617 rides
-```
+
