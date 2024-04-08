@@ -14,7 +14,6 @@ FROM `tripdata2020_case_study`.INFORMATION_SCHEMA.COLUMNS
 WHERE table_name = 'merged_data'
 
 
-#data cleaning
 #check for missing columns
 SELECT COUNT(*)
 FROM `case-study-419113.tripdata2020_case_study.merged_data`
@@ -95,8 +94,7 @@ GROUP BY member_casual
 #there are 2 types of riders; casual and member
 
 
-#data extraction
-
+#to check for rides longer than a day
 SELECT COUNT(*) AS longer_than_a_day
 FROM `case-study-419113.tripdata2020_case_study.merged_data`
 WHERE (
@@ -105,6 +103,7 @@ WHERE (
   EXTRACT(SECOND FROM (ended_at - started_at)) / 60) >= 1440;
 #2861 rides are longer than a day   
 
+#to check for rides less than a minute
 SELECT COUNT(*) AS less_than_a_minute
 FROM `case-study-419113.tripdata2020_case_study.merged_data`
 WHERE (
