@@ -87,3 +87,4 @@ FROM `case-study-419113.tripdata2020_case_study.final_joined_data2`
 SELECT COUNT (ride_id)
 FROM `case-study-419113.tripdata2020_case_study.final_joined_data2`
 #there are 3253617 rides
+```
