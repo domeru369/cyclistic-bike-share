@@ -23,13 +23,13 @@ Moreno has assigned me the first question to answer: How do annual members and c
 # 2. Prepare
 I will use  the Cyclistic’s historical trip data to analyze and identify trends. The 12 months of 2020 Cyclistic trip data can be downloaded [here](https://divvy-tripdata.s3.amazonaws.com/index.html)  The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement) This is public data that I can use to explore how different customer types are using Cyclistic bikes. Due to Data-privacy issues, using riders’ personally identifiable information is prohibited. This means that I am unable to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 
-## Limitations of the Data
+### Limitations of the Data
 * The data lacks crucial demographic information like age, occupation, country and gender.
 * The data was collected 4 years ago in 2020.
 
 # 3. Process
 * I used all the variables because they are all important for analysis.
-* I chose SQL in performing analysis because Cyclistic has a vast amount of historical bike trip data. I chose the 2020 data and I have to merge all data from January to December which will sum up to million of rows. SQL is optimized for handling large datasets efficiently.
+* I chose BigQuery in performing analysis because Cyclistic has a vast amount of historical bike trip data. I chose the 2020 data and I have to merge all data from January to December which will sum up to million of rows. SQL is optimized for handling large datasets efficiently.
 * I chose Tableau for visualizations because Tableau excels at creating interactive visualizations. I can filter data, drill down into details, and see trends dynamically.
 
 ### Data type conversion
@@ -39,7 +39,7 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 * I merged all the data from quarter 1 to december 2020 using union all. [Data merging](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/data%20merging.sql)
 
 ### Data Exploration Analysis (EDA)
-* I performed EDA in order to understand the data better. [EDA](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/Data%20Exploration%20Analysis(EDA).sql)
+* I performed EDA in order to gain a deep understanding of the data. [EDA](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/Data%20Exploration%20Analysis(EDA).sql)
 * There are 3,541,683 rows
 * This table shows the data columns and data types [table](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/info.%20schema.csv)
 * I checked the ride ID column to confirm if all ride IDS have the same character length and i found out that almost all the ride IDs have a length of 16 except 2401
@@ -49,3 +49,17 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 * There are two types of riders; causal riders and annual members.
 * This table shows that start station,end station,end lat and end log has null values and the remaining columns has none. [table](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/null%20values.csv)
 * 2861 rides are longer than a day and 76372 are less than a minute.
+
+### Data cleaning
+* I cleaned the data which ensures data accuracy, leading to more reliable insights. [data cleaning](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/data%20cleaning.sql)
+* I extracted the ride length by subtracting the time the ride started from the time the ride ended.
+* I extracted the hour the ride started, the day name, day type(weekend and weekday) and month of each ride.
+* I joined these extracted data with the merged data with ride id being the primary key.
+* I filtered the data by removing all null values, ride length longer than a day and lesser than a minute, duplicate rows and ride IDs that are not 16 characters long.
+* After all these cleaning, there are 3,253,617 rows remaining meaning 288,036 rows were removed. 
+
+# 4. Analyze
+Using tableau, I created visualizations to analyze the data. For an interactive experience in tableau, [click here](https://public.tableau.com/app/profile/amanda.egega/viz/Bikesharevisualization/bikesharestory#1)
+
+*Firstly, I checked the total rides and total average ride length each broken down by each member type
+
