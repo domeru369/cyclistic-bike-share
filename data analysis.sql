@@ -109,7 +109,7 @@ SELECT end_station_name,
 COUNT(*) AS ride_count
 FROM `case-study-419113.tripdata2020_case_study.final_joined_data2`
 GROUP BY end_station_name
-ORDER BY avg_ride_length DESC LIMIT 10 
+ORDER BY avg_ride_length DESC LIMIT 5 
 
 
 #top 5 end stations and avg ride length
@@ -117,7 +117,7 @@ SELECT end_station_name,
 AVG(ride_length) AS avg_ride_length
 FROM `case-study-419113.tripdata2020_case_study.final_joined_data2`
 GROUP BY end_station_name
-ORDER BY avg_ride_length DESC LIMIT 10
+ORDER BY avg_ride_length DESC LIMIT 5
 
 #avg lat and long of start stations 
 SELECT start_station_name, member_casual,
