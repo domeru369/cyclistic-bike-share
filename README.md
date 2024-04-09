@@ -104,6 +104,41 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 * Casual Riders opt for Racine Ave & 65th St when embarking on longer bike trips while annual members choose Summit Ave & 86th Str as their starting point for rides that tend to be longer in duration.
 * The interactive maps shows the names of each start and end locations, the start and end longitude/latitude and the number of rides associated with them.
 
+# 5. Share
+## Key findings
+
+### Ridership Analysis:
+
+* Membership Breakdown: There are significantly more annual members (1,989,549 rides) than casual riders (1,264,033 rides). This indicates a healthy ridership base, but there's an opportunity to attract more casual riders to become annual members.
+* Ride Length: Interestingly, casual riders have a longer average ride length (38 minutes) compared to annual members (15.27 minutes). This suggests casual riders might be using the bikes for leisure or longer commutes, while annual members might be using them for shorter trips.
+* Bike Type: Docked bikes are the most popular choice for both member types, while classic bikes are the least used. This suggests convenience and ease of use are crucial factors for riders.
+  
+
+### Usage Patterns:
+
+* Day of the Week: Casual riders take the most rides on Saturdays and the least on Tuesdays. Annual members, however, ride the most on Wednesdays and the least on Sundays. This suggests potential differences in how each group uses the bikes throughout the week.
+* Time of Day: The number of rides increases for both member types in the evening (3pm-7pm), peaking at 5pm. Conversely, rides decrease at night (2am-4am). This implies a common evening commute pattern and potentially lower nighttime usage. Both member types experience longer average rides at night (1am-3am) and shorter rides in the morning (6am-7am). This might indicate leisure rides at night and quicker commutes in the mornings.
+* Seasonality: The number of rides peaks in summer (August) and dips in winter (December) for both member types. Additionally, casual riders have longer rides in July (potentially for summer vacations) and shorter rides in October (as the weather cools). Annual members have longer rides in May (potentially for spring outings) and shorter rides in January (during the coldest months). This indicates a clear seasonal trend in ridership and ride length.
+
+  
+### Start & End Stations:
+
+* Popular Stations: Casual riders most frequently use Streeter Dr & Grand Ave for both starting and ending their rides. Annual members favor Clark St & Elm St for both start and end points. Understanding these popular locations can be helpful for station maintenance and rebalancing efforts.
+* Ride Length and Stations: Racine Ave & 65th St is the most popular start and end point for longer casual rider trips.Summit Ave & 86th Str is the most popular for annual members with longer rides. This suggests potential correlations between specific stations and ride purposes.
+
+# 6. Act 
+## Recommendations
+
+* Targeted Marketing Campaigns: Develop targeted marketing campaigns based on member type and usage patterns.
+* Casual Riders: Highlight the convenience and cost-effectiveness of annual memberships for frequent riders, especially those taking longer trips. Promote leisure riding opportunities during weekends and summer months.
+* Annual Members: Offer incentives for increased ridership, like discounts or rewards programs. Promote weekday riding during off-peak hours to spread usage more evenly.
+* Seasonal Promotions: Offer special promotions or discounts on annual memberships during peak ridership months (summer) to capitalize on higher ridership interest.
+* Weekend Discounts: Consider offering discounted rates for annual memberships activated on weekends, which aligns with casual riders' peak usage days.
+* Improved Bike Options: While docked bikes are popular, explore expanding options with electric bikes or other features that might appeal to casual riders, especially for longer trips.
+* Station Optimization: Ensure popular start and end stations, particularly those associated with longer rides (e.g., Racine Ave & 65th St), are well-maintained and have sufficient bikes available.
+* By implementing these recommendations and leveraging the insights from your data analysis, Cyclistic can create a more attractive offering for casual riders, ultimately converting them into loyal annual members and increasing ridership across the program.
+
+
 
 
 
