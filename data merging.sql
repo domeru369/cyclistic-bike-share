@@ -1,4 +1,4 @@
-#Merge all tables from Quarter 1 2020 to December 2020
+--Merge all tables from Quarter 1 2020 to December 2020
 
   SELECT *
   FROM `case-study-419113.tripdata2020_case_study.trip_data_2020_Q1`
