@@ -59,7 +59,51 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 * After all these cleaning, there are 3,253,617 rows remaining meaning 288,036 rows were removed. 
 
 # 4. Analyze
-Using tableau, I created visualizations to analyze the data. For an interactive experience in tableau, [click here](https://public.tableau.com/app/profile/amanda.egega/viz/Bikesharevisualization/bikesharestory#1)
+* I analyized number of rides, average ride length, week day, day type, hour, month, and location broken down by each member type. [Analysis](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/data%20analysis.sql)
+* Using tableau, I created visualizations to analyze the data. For an interactive experience in tableau, [click here](https://public.tableau.com/app/profile/amanda.egega/viz/Bikesharevisualization/bikesharestory#1)
 
-*Firstly, I checked the total rides and total average ride length each broken down by each member type
+### Total rides and total average ride length
+![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/number%20of%20rides%20%26%20ride%20length.png)
+
+* We see more rides from annual members (1,989,549) than casual riders (1,264,033).
+* On average, casual rider trips last longer (38 minutes) than annual member trips (15.27 minutes).
+
+### Bike types
+![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/bike%20type.png)
+
+*Docked bikes are clearly the most popular option for both member types, followed by classic bikes.
+
+### Breakdown by hour
+![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/hour.png)
+
+* Rides for both annual and casual members go up in the evening (3pm-7pm) and peak at 5pm. There are much fewer rides at night (2am-4am).
+* Average ride length is longer at night (1am-3am) and shorter in the mornings (6am-7am) for both member types.
+
+### Breakdown by week day
+![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/week%20day.png)
+
+* Casual riders prefer Saturdays for cycling, whereas Tuesdays are the least popular. Annual members ride the most on Wednesdays and take the fewest rides on Sundays.
+* Casual riders and annual members experience longer rides on Sundays.
+
+### Breakdown by day type
+![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/day%20type.png)
+
+* The number of rides on weekday is more than on the weekend for both member types.
+* Both member types have longer average ride length on weekend than weekday.
+
+### Breakdown by month
+![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/month.png)
+
+* Both casual and annual members rides hit their highest point in the summer (August) and drops significantly during winter (December).
+* Casual Riders enjoy longer trips in July and they opt for shorter rides in October.
+
+### Station locations
+![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/station%20locations.png)
+
+* Casual Riders favor Streeter Dr & Grand Ave as their go-to starting and ending point for bike rides while annual members prefer Clark St & Elm St as their primary station for both starting and ending their rides.
+* Casual Riders opt for Racine Ave & 65th St when embarking on longer bike trips while annual members choose Summit Ave & 86th Str as their starting point for rides that tend to be longer in duration.
+* The interactive maps shows the names of each start and end locations, the start and end longitude/latitude and the number of rides associated with them.
+
+
+
 
