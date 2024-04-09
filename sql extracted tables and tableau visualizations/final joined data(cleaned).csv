@@ -1,0 +1,501 @@
+ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual,ride_length,week_day,month,hour,day_type
+8D15F3BFDF1F6D2B,classic_bike,12/11/2020 16:44,12/11/2020 16:53,Avers Ave & Belmont Ave,15640,Kilbourn Ave & Milwaukee Ave,16994,41.939408,-87.723574,41.948818,-87.74002,member,9,Fri,Dec,16,Weekday
+3D42E54E2D002DCB,docked_bike,7/3/2020 7:56,7/3/2020 8:08,Franklin St & Jackson Blvd,36,Larrabee St & Kingsbury St,48,41.877707,-87.635321,41.897764,-87.642884,member,12,Fri,Jul,7,Weekday
+9BFB90695EC38833,docked_bike,7/3/2020 14:24,7/3/2020 15:05,Streeter Dr & Grand Ave,35,Clark St & Newport St,632,41.892278,-87.612043,41.94454,-87.654678,casual,41,Fri,Jul,14,Weekday
+082150759717795F,docked_bike,6/19/2020 17:03,6/19/2020 17:32,Clinton St & Lake St,66,Lake Shore Dr & North Blvd,268,41.885637,-87.641823,41.911722,-87.626804,member,29,Fri,Jun,17,Weekday
+A711FFC8F983EE7E,docked_bike,6/5/2020 14:37,6/5/2020 15:03,Montrose Harbor,249,Broadway & Berwyn Ave,294,41.963982,-87.638181,41.978353,-87.659753,member,26,Fri,Jun,14,Weekday
+C123FF4DA4A3EC6F,docked_bike,6/19/2020 14:42,6/19/2020 14:53,Wells St & Elm St,182,Franklin St & Lake St,164,41.903222,-87.634324,41.885837,-87.6355,member,11,Fri,Jun,14,Weekday
+0857E131459AB258,docked_bike,1/10/2020 13:30,1/10/2020 13:42,Wabash Ave & Grand Ave,199,Clinton St & Madison St,77,41.8915,-87.6268,41.8822,-87.6411,member,12,Fri,Jan,13,Weekday
+D42F87A39872B140,docked_bike,5/29/2020 14:29,5/29/2020 14:44,2112 W Peterson Ave,456,Sheridan Rd & Loyola Ave,451,41.9912,-87.6836,42.001,-87.6612,member,15,Fri,May,14,Weekday
+0DBAD141EC13E79A,docked_bike,5/29/2020 16:38,5/29/2020 17:06,Ogden Ave & Chicago Ave,54,Richmond St & Diversey Ave,501,41.8964,-87.6541,41.9319,-87.7012,casual,28,Fri,May,16,Weekday
+23EE1AC0D1533237,docked_bike,5/29/2020 23:01,5/29/2020 23:11,Racine Ave & Fullerton Ave,87,Larrabee St & North Ave,27,41.9256,-87.6584,41.9102,-87.6435,member,10,Fri,May,23,Weekday
+67EF0DE43774A316,electric_bike,11/6/2020 8:57,11/6/2020 9:08,Halsted St & Clybourn Ave,331,Daley Center Plaza,81,41.90966633,-87.64812067,41.884314,-87.63030933,member,11,Fri,Nov,8,Weekday
+F14CF572ACDF6244,docked_bike,11/20/2020 19:31,11/20/2020 19:33,Wells St & Hubbard St,212,LaSalle St & Illinois St,181,41.889906,-87.634266,41.890762,-87.631697,member,2,Fri,Nov,19,Weekday
+43002804A3ADAA32,docked_bike,10/16/2020 7:18,10/16/2020 7:22,MLK Jr Dr & 29th St,237,Calumet Ave & 33rd St,149,41.842052,-87.617,41.8349,-87.61793,member,4,Fri,Oct,7,Weekday
+8A404FF95394377E,docked_bike,10/2/2020 9:09,10/2/2020 9:20,Sheridan Rd & Montrose Ave,231,Clark St & Berwyn Ave,463,41.96167,-87.65464,41.97799665,-87.6680471,member,11,Fri,Oct,9,Weekday
+83B63D54EE772C32,docked_bike,10/9/2020 16:22,10/9/2020 16:33,LaSalle Dr & Huron St,627,Green St & Randolph St,112,41.894877,-87.632326,41.883668,-87.64867,casual,11,Fri,Oct,16,Weekday
+AB035181C7DCCEAF,docked_bike,10/9/2020 14:48,10/9/2020 15:50,Indiana Ave & Roosevelt Rd,255,State St & Randolph St,44,41.867888,-87.623041,41.8847302,-87.62773357,casual,62,Fri,Oct,14,Weekday
+D94CA082958B044E,electric_bike,10/2/2020 17:17,10/2/2020 17:40,Paulina St & Montrose Ave,297,Honore St & Division St,17,41.96150283,-87.67150633,41.9031855,-87.673949,casual,23,Fri,Oct,17,Weekday
+6EC6A830C534EE0D,docked_bike,9/4/2020 18:47,9/4/2020 19:04,Michigan Ave & 14th St,168,State St & Kinzie St,47,41.864059,-87.623727,41.889187,-87.627754,member,17,Fri,Sep,18,Weekday
+7F1B35243AE96D5C,docked_bike,7/24/2020 14:12,7/24/2020 14:20,Larrabee St & Division St,359,Dearborn Pkwy & Delaware Pl,140,41.903486,-87.643353,41.898969,-87.629912,casual,8,Fri,Jul,14,Weekday
+BCFF7EDC92588413,docked_bike,7/31/2020 21:55,7/31/2020 23:26,Michigan Ave & Jackson Blvd,284,Michigan Ave & Ida B Wells Dr,45,41.87785,-87.62408,41.876243,-87.624426,casual,91,Fri,Jul,21,Weekday
+72DBEEF8558FC119,electric_bike,12/4/2020 17:38,12/4/2020 17:55,Michigan Ave & Madison St,13036,Morgan St & 18th St,13163,41.88192433,-87.62515333,41.85808167,-87.65101117,member,17,Fri,Dec,17,Weekday
+D96C8D3A40E61E8C,docked_bike,7/31/2020 11:07,7/31/2020 11:30,Lakefront Trail & Bryn Mawr Ave,459,Broadway & Wilson Ave,293,41.984036,-87.65231,41.965221,-87.658139,casual,23,Fri,Jul,11,Weekday
+0F7E11747393EFD6,docked_bike,7/31/2020 8:26,7/31/2020 8:54,Orleans St & Hubbard St,636,Ashland Ave & Division St,210,41.890028,-87.636618,41.90345,-87.667747,casual,28,Fri,Jul,8,Weekday
+CA825202B3D508C2,docked_bike,6/19/2020 11:13,6/19/2020 11:36,Lake Shore Dr & Ohio St,99,Millennium Park,90,41.89257,-87.614492,41.8810317,-87.62408432,casual,23,Fri,Jun,11,Weekday
+428D87337A2FEB49,docked_bike,6/26/2020 11:24,6/26/2020 11:32,Desplaines St & Kinzie St,56,Sedgwick St & Huron St,111,41.888716,-87.644447,41.894666,-87.638437,member,8,Fri,Jun,11,Weekday
+4CE917E5A8E9B70F,docked_bike,6/12/2020 22:55,6/12/2020 23:09,Green St & Madison St,198,State St & Harrison St,5,41.881892,-87.648789,41.874053,-87.627716,casual,14,Fri,Jun,22,Weekday
+14FA7254C9EA12FA,docked_bike,3/13/2020 16:24,3/13/2020 16:52,LaSalle St & Washington St,98,Wilton Ave & Diversey Pkwy,13,41.8827,-87.6325,41.9324,-87.6527,member,28,Fri,Mar,16,Weekday
+3C0E680084D4AEEB,docked_bike,1/24/2020 7:27,1/24/2020 7:37,Clinton St & Madison St,77,Halsted St & Maxwell St,282,41.8822,-87.6411,41.8649,-87.6471,member,10,Fri,Jan,7,Weekday
+3FA43CD2186DB8B7,docked_bike,1/17/2020 6:40,1/17/2020 6:47,Aberdeen St & Jackson Blvd,21,LaSalle St & Jackson Blvd,283,41.8777,-87.6548,41.8782,-87.6319,member,7,Fri,Jan,6,Weekday
+2096FBBC189534D1,docked_bike,3/6/2020 8:01,3/6/2020 8:15,Ogden Ave & Race Ave,186,Franklin St & Monroe St,287,41.8918,-87.6588,41.8803,-87.6352,member,14,Fri,Mar,8,Weekday
+087DBA913196ED73,docked_bike,2/7/2020 8:01,2/7/2020 8:10,Wabash Ave & Roosevelt Rd,59,Franklin St & Jackson Blvd,36,41.8672,-87.626,41.8777,-87.6353,member,9,Fri,Feb,8,Weekday
+6D444E16845C2A79,docked_bike,5/22/2020 14:20,5/22/2020 15:19,Damen Ave & Cortland St,219,St. Clair St & Erie St,211,41.916,-87.6773,41.8944,-87.6227,casual,59,Fri,May,14,Weekday
+6C29978B7692991A,docked_bike,5/29/2020 12:27,5/29/2020 12:57,Western Ave & Leland Ave,239,Sheffield Ave & Wellington Ave,115,41.9665,-87.6884,41.9363,-87.6527,casual,30,Fri,May,12,Weekday
+169E68C49DC2FA3C,docked_bike,5/1/2020 19:40,5/1/2020 20:59,Michigan Ave & Washington St,43,Central Park Ave & North Ave,508,41.884,-87.6247,41.9097,-87.7166,casual,79,Fri,May,19,Weekday
+0310F067923E24B8,docked_bike,11/6/2020 11:38,11/6/2020 13:11,Adler Planetarium,341,Adler Planetarium,341,41.866095,-87.607267,41.866095,-87.607267,casual,93,Fri,Nov,11,Weekday
+34EE497899923A4E,docked_bike,11/6/2020 17:53,11/6/2020 18:07,Wabash Ave & 9th St,321,LaSalle Dr & Huron St,627,41.870769,-87.625734,41.894877,-87.632326,member,14,Fri,Nov,17,Weekday
+2FD3A361EAFBB382,docked_bike,10/30/2020 6:41,10/30/2020 6:54,Columbus Dr & Randolph St,195,Green St & Madison St,198,41.884728,-87.619521,41.881892,-87.648789,member,13,Fri,Oct,6,Weekday
+45A83324DD1C882A,electric_bike,10/2/2020 12:20,10/2/2020 12:25,Western Ave & Congress Pkwy,382,Western Ave & Monroe St,381,41.8746185,-87.68624217,41.879752,-87.68613333,member,5,Fri,Oct,12,Weekday
+EEA1ABC96D555C5C,docked_bike,9/4/2020 14:31,9/4/2020 15:34,Aberdeen St & Randolph St,621,Lake Shore Dr & North Blvd,268,41.884114,-87.654264,41.911722,-87.626804,casual,63,Fri,Sep,14,Weekday
+CEFAE4E8B092AB51,electric_bike,9/11/2020 7:36,9/11/2020 7:49,Rush St & Cedar St,172,Franklin St & Monroe St,287,41.90245067,-87.627922,41.87976217,-87.63431117,casual,13,Fri,Sep,7,Weekday
+6C3813F37816EC2D,docked_bike,9/11/2020 11:46,9/11/2020 11:57,Clark St & Elm St,176,Clark St & Lake St,38,41.902973,-87.63128,41.88602083,-87.63087606,member,11,Fri,Sep,11,Weekday
+21F8233BA9E903B1,docked_bike,9/18/2020 14:32,9/18/2020 14:36,Clark St & Drummond Pl,220,Lakeview Ave & Fullerton Pkwy,313,41.931248,-87.644336,41.925858,-87.638973,member,4,Fri,Sep,14,Weekday
+99D16CA46DE1E4A0,docked_bike,9/18/2020 12:21,9/18/2020 12:29,Michigan Ave & Madison St,197,Wabash Ave & Roosevelt Rd,59,41.882134,-87.625125,41.867227,-87.625961,member,8,Fri,Sep,12,Weekday
+042E29F224118A13,docked_bike,9/25/2020 18:45,9/25/2020 19:18,Ogden Ave & Race Ave,186,Wabash Ave & 9th St,321,41.891795,-87.658751,41.870769,-87.625734,casual,33,Fri,Sep,18,Weekday
+E1CA6B8CBF986B96,docked_bike,7/17/2020 8:27,7/17/2020 8:39,LaSalle St & Illinois St,181,Halsted St & Clybourn Ave,331,41.890762,-87.631697,41.909668,-87.648128,member,12,Fri,Jul,8,Weekday
+8712E506CA8EC5A3,docked_bike,7/17/2020 21:46,7/17/2020 21:53,Sheffield Ave & Wrightwood Ave,302,Wilton Ave & Belmont Ave,117,41.928712,-87.653833,41.94018,-87.65304,member,7,Fri,Jul,21,Weekday
+DE0ECBE27AAC681A,docked_bike,7/3/2020 10:30,7/3/2020 11:06,Rush St & Superior St,161,Halsted St & Roscoe St,299,41.895764,-87.625908,41.94367,-87.64895,member,36,Fri,Jul,10,Weekday
+C83EDEA02B3BF62C,docked_bike,4/24/2020 18:04,4/24/2020 18:18,Broadway & Cornelia Ave,303,Southport Ave & Irving Park Rd,318,41.9455,-87.6464,41.9542,-87.6644,casual,14,Fri,Apr,18,Weekday
+51B93D15CD3AF59B,docked_bike,7/24/2020 14:35,7/24/2020 14:43,State St & Van Buren St,33,State St & Kinzie St,47,41.877181,-87.627844,41.889187,-87.627754,member,8,Fri,Jul,14,Weekday
+C5D75C502C662179,docked_bike,7/31/2020 16:03,7/31/2020 16:39,Lakefront Trail & Bryn Mawr Ave,459,Chicago Ave & Washington St,597,41.984036,-87.65231,42.032562,-87.679101,member,36,Fri,Jul,16,Weekday
+31CD44B1291CF12D,docked_bike,7/10/2020 20:43,7/10/2020 21:00,State St & Randolph St,44,Wabash Ave & Roosevelt Rd,59,41.88473,-87.627733,41.867227,-87.625961,casual,17,Fri,Jul,20,Weekday
+7EE9CBFC6E923726,docked_bike,7/24/2020 19:22,7/24/2020 19:44,Lake Shore Dr & Monroe St,76,Wells St & Polk St,175,41.880958,-87.616743,41.872596,-87.633502,casual,22,Fri,Jul,19,Weekday
+D97EF69A996D2D15,docked_bike,7/31/2020 17:45,7/31/2020 17:59,Clinton St & Lake St,66,Rush St & Cedar St,172,41.885637,-87.641823,41.9023087,-87.62769053,member,14,Fri,Jul,17,Weekday
+03BBE04AD3FDF73C,docked_bike,7/10/2020 12:50,7/10/2020 13:07,Clark St & Wrightwood Ave,340,Ashland Ave & Grace St,347,41.929546,-87.643118,41.950687,-87.6687,casual,17,Fri,Jul,12,Weekday
+C50D0D49005835FE,docked_bike,7/17/2020 7:33,7/17/2020 7:39,Streeter Dr & Grand Ave,35,St. Clair St & Erie St,211,41.892278,-87.612043,41.894448,-87.622663,member,6,Fri,Jul,7,Weekday
+386FDDBE3A26A5A4,docked_bike,7/17/2020 17:10,7/17/2020 17:36,Dearborn St & Erie St,110,Pine Grove Ave & Irving Park Rd,254,41.893992,-87.629318,41.954383,-87.648043,casual,26,Fri,Jul,17,Weekday
+0BABBDDF4BCE4A93,docked_bike,7/3/2020 12:15,7/3/2020 12:16,Montrose Harbor,249,Theater on the Lake,177,41.963982,-87.638181,41.926277,-87.630834,member,1,Fri,Jul,12,Weekday
+2150BEAB737263FD,docked_bike,6/5/2020 13:22,6/5/2020 13:28,Southport Ave & Clybourn Ave,307,Sheffield Ave & Kingsbury St,20,41.920771,-87.663712,41.910522,-87.653106,casual,6,Fri,Jun,13,Weekday
+C8E25E2D6650B82A,docked_bike,6/5/2020 12:02,6/5/2020 12:07,Ashland Ave & Wrightwood Ave,166,Racine Ave & Fullerton Ave,87,41.92883,-87.668507,41.92556258,-87.65840426,member,5,Fri,Jun,12,Weekday
+EA38BC638600C642,docked_bike,1/10/2020 8:57,1/10/2020 9:02,Franklin St & Lake St,164,Franklin St & Chicago Ave,31,41.8858,-87.6355,41.8967,-87.6357,member,5,Fri,Jan,8,Weekday
+77B23AB7F09E6715,docked_bike,5/29/2020 20:02,5/29/2020 20:13,Larrabee St & Oak St,364,Clark St & Elm St,176,41.9002,-87.643,41.903,-87.6313,casual,11,Fri,May,20,Weekday
+61330D6315872A0F,docked_bike,5/22/2020 10:20,5/22/2020 10:56,Mies van der Rohe Way & Chicago Ave,173,Avers Ave & Belmont Ave,496,41.8969,-87.6217,41.9394,-87.7236,member,36,Fri,May,10,Weekday
+A5985C2C22D0129F,docked_bike,11/20/2020 11:42,11/20/2020 11:54,Desplaines St & Kinzie St,56,Wabash Ave & Adams St,39,41.888716,-87.644447,41.87947235,-87.62568861,member,12,Fri,Nov,11,Weekday
+9B4AD7A374EB1AAE,docked_bike,11/6/2020 15:29,11/6/2020 15:33,Southport Ave & Clark St,292,Ravenswood Ave & Berteau Ave,314,41.957081,-87.664199,41.957921,-87.673567,member,4,Fri,Nov,15,Weekday
+DEC4AF83F639BCFD,docked_bike,11/27/2020 7:14,11/27/2020 7:23,Aberdeen St & Monroe St,80,Kingsbury St & Kinzie St,133,41.880419,-87.655519,41.88917683,-87.63850577,member,9,Fri,Nov,7,Weekday
+7B38B2ADAA6D8F47,docked_bike,10/9/2020 13:22,10/9/2020 13:36,Orleans St & Hubbard St,636,Clark St & Elm St,176,41.890028,-87.636618,41.902973,-87.63128,casual,14,Fri,Oct,13,Weekday
+0F45B484BA2A92BF,docked_bike,10/23/2020 15:57,10/23/2020 16:15,Ashland Ave & Division St,210,Canal St & Adams St,192,41.90345,-87.667747,41.879255,-87.639904,member,18,Fri,Oct,15,Weekday
+38D3EDD4BD7C95BB,electric_bike,10/16/2020 11:48,10/16/2020 11:56,Kingsbury St & Erie St,74,Morgan St & Lake St,71,41.893954,-87.64194133,41.88532117,-87.65218883,casual,8,Fri,Oct,11,Weekday
+856F97CAAC4C12F9,docked_bike,10/9/2020 22:44,10/9/2020 22:52,Rush St & Cedar St,172,Wells St & Concord Ln,289,41.902308,-87.62769,41.912133,-87.634656,member,8,Fri,Oct,22,Weekday
+789EF54C57ACAFFF,electric_bike,10/16/2020 6:25,10/16/2020 6:42,California Ave & Milwaukee Ave,123,Sedgwick St & Huron St,111,41.92265417,-87.6971225,41.89474417,-87.638487,member,17,Fri,Oct,6,Weekday
+EDE0A7A03BBD1B70,docked_bike,9/18/2020 10:03,9/18/2020 10:19,Wabash Ave & Roosevelt Rd,59,Clark St & Lake St,38,41.867227,-87.625961,41.88602083,-87.63087606,casual,16,Fri,Sep,10,Weekday
+66141FCE0C1AE1DD,docked_bike,9/25/2020 18:16,9/25/2020 18:36,Wilton Ave & Diversey Pkwy,13,Lake Shore Dr & Diversey Pkwy,329,41.932418,-87.652705,41.932588,-87.636427,member,20,Fri,Sep,18,Weekday
+7D8D3292070FAB14,docked_bike,7/31/2020 14:28,7/31/2020 14:52,Monticello Ave & Irving Park Rd,484,Southport Ave & Waveland Ave,227,41.954004,-87.719128,41.94815,-87.66394,member,24,Fri,Jul,14,Weekday
+325D43F15E36A696,docked_bike,7/10/2020 22:11,7/10/2020 22:35,Field Museum,97,Rhodes Ave & 32nd St,263,41.865312,-87.617867,41.836208,-87.613533,member,24,Fri,Jul,22,Weekday
+24C3EE35674428D5,docked_bike,7/17/2020 10:08,7/17/2020 10:17,Lincoln Ave & Roscoe St,230,Lincoln Ave & Belle Plaine Ave,298,41.94334,-87.67097,41.95600355,-87.68016145,member,9,Fri,Jul,10,Weekday
+946D0F62FF829F8E,docked_bike,7/24/2020 17:37,7/24/2020 17:43,Sheffield Ave & Webster Ave,327,Sheffield Ave & Wrightwood Ave,302,41.92154,-87.653818,41.928712,-87.653833,member,6,Fri,Jul,17,Weekday
+BC6913CBC2F7CA4E,docked_bike,7/24/2020 20:11,7/24/2020 21:01,Dearborn St & Erie St,110,LaSalle Dr & Huron St,627,41.893992,-87.629318,41.894877,-87.632326,casual,50,Fri,Jul,20,Weekday
+4CBE40B460CE34F3,docked_bike,6/12/2020 15:39,6/12/2020 16:12,Stetson Ave & South Water St,264,Broadway & Cornelia Ave,303,41.886835,-87.62232,41.945529,-87.646439,member,33,Fri,Jun,15,Weekday
+41C7DC59AA6C3410,docked_bike,6/12/2020 17:31,6/12/2020 17:39,Franklin St & Monroe St,287,Wabash Ave & Roosevelt Rd,59,41.880317,-87.635185,41.867227,-87.625961,member,8,Fri,Jun,17,Weekday
+E3C223369F640636,docked_bike,2/14/2020 16:44,2/14/2020 17:19,State St & Van Buren St,33,Logan Blvd & Elston Ave,258,41.8772,-87.6278,41.9295,-87.6842,member,35,Fri,Feb,16,Weekday
+46F81B7726D324F3,docked_bike,2/28/2020 18:47,2/28/2020 18:51,Wabash Ave & Roosevelt Rd,59,Michigan Ave & 18th St,273,41.8672,-87.626,41.8578,-87.6246,member,4,Fri,Feb,18,Weekday
+5B169EC5F3FF7670,docked_bike,3/13/2020 6:22,3/13/2020 6:27,Franklin St & Adams St (Temp),286,Wabash Ave & Adams St,39,41.8794,-87.6355,41.8795,-87.6257,member,5,Fri,Mar,6,Weekday
+D9C532C8CAECB6DE,docked_bike,1/17/2020 16:32,1/17/2020 16:45,Sheridan Rd & Buena Ave,306,Broadway & Argyle St,295,41.9585,-87.655,41.9738,-87.6597,member,13,Fri,Jan,16,Weekday
+270237E9ECB35F35,docked_bike,2/21/2020 13:10,2/21/2020 13:14,Dearborn St & Adams St,37,Federal St & Polk St,41,41.8794,-87.6298,41.8721,-87.6295,member,4,Fri,Feb,13,Weekday
+D2D2B496CFFC577C,docked_bike,2/7/2020 16:18,2/7/2020 16:29,Kingsbury St & Erie St,74,Aberdeen St & Monroe St,80,41.8938,-87.6417,41.8804,-87.6555,member,11,Fri,Feb,16,Weekday
+EFFF2049812D9281,docked_bike,5/8/2020 13:08,5/8/2020 13:35,Michigan Ave & Oak St,85,Michigan Ave & Oak St,85,41.901,-87.6238,41.901,-87.6238,member,27,Fri,May,13,Weekday
+5A265A40991FAC2F,docked_bike,5/8/2020 13:24,5/8/2020 13:44,Desplaines St & Jackson Blvd,107,Wabash Ave & 9th St,321,41.8783,-87.6439,41.8708,-87.6257,casual,20,Fri,May,13,Weekday
+0E309DBACE6F17E3,docked_bike,5/1/2020 15:17,5/1/2020 15:21,Sheffield Ave & Kingsbury St,20,Bissell St & Armitage Ave,113,41.9105,-87.6531,41.9184,-87.6522,member,4,Fri,May,15,Weekday
+F4A74DE9A02CE94C,docked_bike,5/8/2020 15:21,5/8/2020 15:39,Stockton Dr & Wrightwood Ave,324,Pine Grove Ave & Irving Park Rd,254,41.9313,-87.6387,41.9544,-87.648,member,18,Fri,May,15,Weekday
+E6534C04A6E21D24,docked_bike,11/6/2020 13:39,11/6/2020 13:48,Southport Ave & Waveland Ave,227,Sheffield Ave & Wellington Ave,115,41.94815,-87.66394,41.936266,-87.652662,member,9,Fri,Nov,13,Weekday
+E14D42B1679C2FBC,docked_bike,10/9/2020 16:22,10/9/2020 17:11,Ellis Ave & 53rd St,418,Lake Park Ave & 47th St,267,41.799336,-87.600958,41.809443,-87.591875,casual,49,Fri,Oct,16,Weekday
+13B6BBE27EA59A30,electric_bike,10/2/2020 14:12,10/2/2020 14:20,LaSalle St & Adams St,40,Ada St & Washington Blvd,346,41.879454,-87.63230917,41.88290283,-87.66098067,member,8,Fri,Oct,14,Weekday
+8D5612CFC8F1D8B3,docked_bike,9/25/2020 12:00,9/25/2020 12:07,Halsted St & Polk St,108,Throop (Loomis) St & Taylor St,19,41.87184,-87.64664,41.868968,-87.659141,member,7,Fri,Sep,12,Weekday
+714E545AB4A43036,docked_bike,7/17/2020 20:08,7/17/2020 20:19,Wells St & Elm St,182,Sheffield Ave & Willow St,93,41.903222,-87.634324,41.913688,-87.652855,casual,11,Fri,Jul,20,Weekday
+11668C6C1A778DE1,docked_bike,4/3/2020 17:08,4/3/2020 17:29,Lake Shore Dr & Ohio St,99,Clark St & Drummond Pl,220,41.8926,-87.6145,41.9312,-87.6443,member,21,Fri,Apr,17,Weekday
+AA83F70289736730,docked_bike,7/10/2020 15:54,7/10/2020 16:37,Racine Ave & 18th St,15,Racine Ave & 18th St,15,41.858166,-87.656495,41.858166,-87.656495,casual,43,Fri,Jul,15,Weekday
+340B61BF94795466,docked_bike,7/17/2020 14:40,7/17/2020 14:52,Walsh Park,628,Halsted St & Wrightwood Ave,349,41.91461,-87.667968,41.929143,-87.649077,member,12,Fri,Jul,14,Weekday
+A21F0BE44B186735,docked_bike,7/31/2020 7:58,7/31/2020 8:05,McClurg Ct & Erie St,142,Wabash Ave & Grand Ave,199,41.894503,-87.617854,41.891466,-87.626761,member,7,Fri,Jul,7,Weekday
+5D87370BFD954959,docked_bike,7/24/2020 16:46,7/24/2020 17:11,Streeter Dr & Grand Ave,35,Lake Shore Dr & Ohio St,99,41.892278,-87.612043,41.89257,-87.614492,casual,25,Fri,Jul,16,Weekday
+01158E086BECBD3A,docked_bike,6/19/2020 20:56,6/19/2020 21:22,Stetson Ave & South Water St,264,Field Blvd & South Water St,7,41.886835,-87.62232,41.88634906,-87.61751655,casual,26,Fri,Jun,20,Weekday
+179021C8BF6C2FA7,docked_bike,6/5/2020 15:13,6/5/2020 15:21,Wells St & Elm St,182,Wells St & Huron St,53,41.903222,-87.634324,41.894722,-87.634362,member,8,Fri,Jun,15,Weekday
+98C69084E6CD89E9,docked_bike,1/10/2020 7:47,1/10/2020 8:03,Clinton St & Jackson Blvd,638,Wood St & Taylor St,317,41.8781,-87.6398,41.8692,-87.671,member,16,Fri,Jan,7,Weekday
+2646CEECDE013A57,docked_bike,2/7/2020 16:28,2/7/2020 16:34,Halsted St & Polk St,108,Clinton St & Madison St,77,41.8718,-87.6466,41.8822,-87.6411,member,6,Fri,Feb,16,Weekday
+4B87389B102396E7,docked_bike,5/8/2020 9:59,5/8/2020 10:06,Sedgwick St & Huron St,111,LaSalle St & Washington St,98,41.8947,-87.6384,41.8827,-87.6325,member,7,Fri,May,9,Weekday
+F9D79D58F136513E,docked_bike,5/29/2020 8:53,5/29/2020 9:09,Paulina Ave & North Ave,16,Orleans St & Merchandise Mart Plaza,100,41.9103,-87.6701,41.8882,-87.6364,casual,16,Fri,May,8,Weekday
+B90C7E24E5A3B845,docked_bike,5/29/2020 13:15,5/29/2020 13:24,Lake Shore Dr & North Blvd,268,Wells St & Walton St,46,41.9117,-87.6268,41.8999,-87.6344,member,9,Fri,May,13,Weekday
+1F2873262EBB8412,docked_bike,5/22/2020 22:51,5/22/2020 23:02,Lincoln Ave & Fullerton Ave,127,Rush St & Cedar St,172,41.9259,-87.6493,41.9023,-87.6277,member,11,Fri,May,22,Weekday
+7F6D9E6F64BF4955,docked_bike,11/6/2020 11:56,11/6/2020 12:12,Greenview Ave & Diversey Pkwy,319,Lakeview Ave & Fullerton Pkwy,313,41.932589,-87.665936,41.925858,-87.638973,member,16,Fri,Nov,11,Weekday
+16A0BFD2AEF60F16,electric_bike,11/13/2020 17:30,11/13/2020 19:49,Ogden Ave & Congress Pkwy,122,Aberdeen St & Monroe St,80,41.87504233,-87.67321517,41.88040467,-87.655663,member,139,Fri,Nov,17,Weekday
+15243762530A277C,electric_bike,11/6/2020 6:31,11/6/2020 6:43,Wabash Ave & Cermak Rd,42,Desplaines St & Jackson Blvd,107,41.85261917,-87.62661033,41.8780815,-87.6437675,casual,12,Fri,Nov,6,Weekday
+045C521D66BC216D,electric_bike,11/6/2020 10:28,11/6/2020 10:31,Milwaukee Ave & Grand Ave,84,Green St & Randolph St,112,41.891671,-87.64807417,41.883816,-87.64852767,member,3,Fri,Nov,10,Weekday
+2892121EACDAA138,electric_bike,10/9/2020 18:29,10/9/2020 18:38,Millennium Park,90,Millennium Park,90,41.88113167,-87.6242265,41.88130933,-87.62413633,casual,9,Fri,Oct,18,Weekday
+78840659BA7FDCB1,docked_bike,10/16/2020 7:49,10/16/2020 8:16,Stockton Dr & Wrightwood Ave,324,Millennium Park,90,41.93132,-87.638742,41.8810317,-87.62408432,member,27,Fri,Oct,7,Weekday
+0D5C5BA5786627CF,electric_bike,10/2/2020 14:42,10/2/2020 15:01,Clark St & Armitage Ave,94,Ashland Ave & Lake St,119,41.9183245,-87.63633667,41.88604983,-87.66714967,member,19,Fri,Oct,14,Weekday
+D185C84B463DB8B5,docked_bike,10/9/2020 19:31,10/9/2020 20:24,Lake Park Ave & 56th St,345,Bennett Ave & 79th St,578,41.793242,-87.587782,41.751785,-87.578496,casual,53,Fri,Oct,19,Weekday
+1A572DA8508D7777,docked_bike,10/16/2020 18:27,10/16/2020 18:34,Wells St & Huron St,53,State St & Pearson St,106,41.894722,-87.634362,41.897448,-87.628722,member,7,Fri,Oct,18,Weekday
+AFC997A201AB863B,docked_bike,10/2/2020 23:01,10/2/2020 23:11,Desplaines St & Jackson Blvd,107,Throop St & Taylor St,19,41.878287,-87.643909,41.868968,-87.659141,member,10,Fri,Oct,23,Weekday
+17554F8F3F640D9B,docked_bike,9/25/2020 15:43,9/25/2020 16:04,Millennium Park,90,Buckingham Fountain,2,41.881031,-87.624084,41.87651123,-87.62054801,casual,21,Fri,Sep,15,Weekday
+071CB331EFEB4ED3,docked_bike,9/25/2020 20:25,9/25/2020 20:28,Ashland Ave & Blackhawk St,333,Paulina Ave & North Ave,16,41.907066,-87.667252,41.910337,-87.670072,casual,3,Fri,Sep,20,Weekday
+D1E8A0314A34C571,docked_bike,9/18/2020 8:29,9/18/2020 8:32,Clark St & Drummond Pl,220,Broadway & Barry Ave,300,41.931248,-87.644336,41.93758232,-87.64409781,member,3,Fri,Sep,8,Weekday
+215D47E1D5D1A96B,docked_bike,9/11/2020 9:31,9/11/2020 9:58,Lakefront Trail & Bryn Mawr Ave,459,Broadway & Barry Ave,300,41.984036,-87.65231,41.93758232,-87.64409781,member,27,Fri,Sep,9,Weekday
+E1B2AC370AA1E899,docked_bike,9/18/2020 16:26,9/18/2020 19:12,Desplaines St & Jackson Blvd,107,Wabash Ave & Roosevelt Rd,59,41.878287,-87.643909,41.867227,-87.625961,casual,166,Fri,Sep,16,Weekday
+EE8BA7F63356A045,electric_bike,9/18/2020 20:47,9/18/2020 21:22,Rush St & Superior St,161,Morgan St & Lake St,71,41.89584367,-87.626587,41.8856895,-87.65234067,casual,35,Fri,Sep,20,Weekday
+EF5ABA8176997BD0,docked_bike,4/3/2020 13:47,4/3/2020 14:05,Wells St & Polk St,175,State St & Harrison St,5,41.8726,-87.6335,41.8741,-87.6277,member,18,Fri,Apr,13,Weekday
+1A1C8701499FC172,docked_bike,4/10/2020 15:22,4/10/2020 15:39,Morgan St & Lake St,71,Michigan Ave & Pearson St,25,41.8855,-87.6523,41.8977,-87.6235,member,17,Fri,Apr,15,Weekday
+77B66D9DE703D939,docked_bike,4/3/2020 15:48,4/3/2020 16:12,Broadway & Granville Ave,454,Broadway & Granville Ave,454,41.9948,-87.6603,41.9948,-87.6603,casual,24,Fri,Apr,15,Weekday
+1E904B7643DBD6F3,classic_bike,12/18/2020 19:32,12/18/2020 19:42,Michigan Ave & Oak St,13042,Clark St & Lincoln Ave,13179,41.90096039,-87.62377664,41.915689,-87.6346,member,10,Fri,Dec,19,Weekday
+AD13B86B3225B867,docked_bike,7/10/2020 17:26,7/10/2020 17:45,Clinton St & Madison St,77,Eckhart Park,86,41.882242,-87.641066,41.89637337,-87.66098386,casual,19,Fri,Jul,17,Weekday
+CEFCA2AE849E0C2C,docked_bike,7/31/2020 18:16,7/31/2020 18:29,Wells St & Walton St,46,Green St & Madison St,198,41.89993,-87.63443,41.881892,-87.648789,member,13,Fri,Jul,18,Weekday
+4EB9F88596447447,docked_bike,6/12/2020 17:58,6/12/2020 18:08,Peoria St & Jackson Blvd,134,Blue Island Ave & 18th St,129,41.877641,-87.649617,41.857556,-87.661535,member,10,Fri,Jun,17,Weekday
+A649719FED97EB2C,docked_bike,6/19/2020 17:35,6/19/2020 17:42,Sheffield Ave & Fullerton Ave,67,Marshfield Ave & Cortland St,58,41.925601,-87.653708,41.916017,-87.668879,member,7,Fri,Jun,17,Weekday
+E091FDB67AAD77E8,docked_bike,6/19/2020 15:36,6/19/2020 16:14,Fairbanks St & Superior St,635,Broadway & Sheridan Rd,256,41.895748,-87.620104,41.952833,-87.649993,member,38,Fri,Jun,15,Weekday
+D4AC36BCB2137C83,docked_bike,1/3/2020 18:16,1/3/2020 18:22,Clinton St & Lake St,66,Kingsbury St & Erie St,74,41.8856,-87.6418,41.8938,-87.6417,member,6,Fri,Jan,18,Weekday
+2324281623DD6C74,docked_bike,1/10/2020 16:31,1/10/2020 16:40,LaSalle St & Illinois St,181,Clinton St & Madison St,77,41.8908,-87.6317,41.8822,-87.6411,member,9,Fri,Jan,16,Weekday
+29AFA89AA8CED7AB,docked_bike,2/7/2020 6:35,2/7/2020 6:44,Wells St & Polk St,175,Daley Center Plaza,81,41.8726,-87.6335,41.8842,-87.6296,member,9,Fri,Feb,6,Weekday
+EEE5FEFCD14C98B6,docked_bike,1/17/2020 7:34,1/17/2020 7:53,Loomis St & Lexington St,320,Daley Center Plaza,81,41.8722,-87.6615,41.8842,-87.6296,member,19,Fri,Jan,7,Weekday
+242DEB79E019CF69,docked_bike,5/29/2020 17:26,5/29/2020 17:35,Dearborn St & Erie St,110,Kingsbury St & Erie St,74,41.894,-87.6293,41.8938,-87.6417,member,9,Fri,May,17,Weekday
+F69DBE2FE9E9675C,docked_bike,5/22/2020 15:37,5/22/2020 15:49,Dodge Ave & Mulford St,662,Dodge Ave & Mulford St,662,42.0235,-87.6996,42.0235,-87.6996,casual,12,Fri,May,15,Weekday
+494CE3FCA0FF0F5F,docked_bike,5/1/2020 14:33,5/1/2020 14:57,Halsted St & Archer Ave,206,Halsted St & Polk St,108,41.8472,-87.6468,41.8718,-87.6466,casual,24,Fri,May,14,Weekday
+408302F6E422F43A,docked_bike,5/22/2020 9:32,5/22/2020 10:02,Campbell Ave & Montrose Ave,482,Halsted St & Willow St,224,41.9615,-87.6912,41.9139,-87.6488,member,30,Fri,May,9,Weekday
+2597C4478C9A9F5C,docked_bike,5/8/2020 5:26,5/8/2020 5:52,Southport Ave & Irving Park Rd,318,Carpenter St & Huron St,92,41.9542,-87.6644,41.8946,-87.6534,member,26,Fri,May,5,Weekday
+D676E5C18FEAD0DA,electric_bike,11/20/2020 11:54,11/20/2020 12:04,Winchester Ave & Elston Ave,505,Paulina Ave & North Ave,16,41.92411883,-87.6764385,41.9103805,-87.67007417,casual,10,Fri,Nov,11,Weekday
+CDACA4CA6ACFE44B,docked_bike,11/6/2020 6:39,11/6/2020 7:14,Leavitt St & Belmont Ave,664,Michigan Ave & Lake St,52,41.939354,-87.683282,41.886024,-87.624117,member,35,Fri,Nov,6,Weekday
+632E134CC3DCBC0C,electric_bike,11/13/2020 17:13,11/13/2020 17:21,Morgan St & Lake St,71,Jefferson St & Monroe St,73,41.88551617,-87.65229,41.8801345,-87.64266617,member,8,Fri,Nov,17,Weekday
+8F78293DBE2705F2,electric_bike,11/20/2020 6:55,11/20/2020 7:16,Dayton St & North Ave,60,McClurg Ct & Erie St,142,41.91047217,-87.649507,41.8943415,-87.61865517,member,21,Fri,Nov,6,Weekday
+BF58CB48A06747FF,electric_bike,10/2/2020 18:41,10/2/2020 18:49,Damen Ave & Pierce Ave,69,Damen Ave & Grand Ave,214,41.909388,-87.67767617,41.89169467,-87.676951,casual,8,Fri,Oct,18,Weekday
+09D185816412049C,docked_bike,9/11/2020 20:47,9/11/2020 20:48,Logan Blvd & Elston Ave,258,Logan Blvd & Elston Ave,258,41.929465,-87.684158,41.929465,-87.684158,member,1,Fri,Sep,20,Weekday
+5C1B97192B2D9D8E,electric_bike,9/18/2020 14:18,9/18/2020 14:23,Stetson Ave & South Water St,264,Clark St & Lake St,38,41.886721,-87.62232917,41.88614983,-87.63090017,member,5,Fri,Sep,14,Weekday
+C2FB98D84F689810,docked_bike,9/18/2020 14:17,9/18/2020 14:29,Ashland Ave & Division St,210,Southport Ave & Clybourn Ave,307,41.90345,-87.667747,41.920771,-87.663712,member,12,Fri,Sep,14,Weekday
+B7749CCBBBDA32DF,electric_bike,9/4/2020 23:09,9/4/2020 23:17,Clifton Ave & Armitage Ave,223,Stockton Dr & Wrightwood Ave,324,41.9181405,-87.657049,41.93126583,-87.6387185,casual,8,Fri,Sep,23,Weekday
+486B09E8DF32B611,docked_bike,7/3/2020 17:55,7/3/2020 17:58,Carpenter St & Huron St,92,Milwaukee Ave & Grand Ave,84,41.894556,-87.653449,41.891578,-87.648384,member,3,Fri,Jul,17,Weekday
+64B7C28FEC25B9A2,docked_bike,7/31/2020 14:14,7/31/2020 14:37,Ravenswood Ave & Berteau Ave,314,2112 W Peterson Ave,456,41.957921,-87.673567,41.991178,-87.683593,member,23,Fri,Jul,14,Weekday
+70765FF02DB4D560,docked_bike,7/24/2020 16:19,7/24/2020 16:56,Rockwell St & Eastwood Ave,478,Campbell Ave & North Ave,160,41.9659,-87.693638,41.910535,-87.689556,casual,37,Fri,Jul,16,Weekday
+E25445DAEEADA116,docked_bike,7/3/2020 7:33,7/3/2020 7:44,Wabash Ave & Grand Ave,199,Canal St & Adams St,192,41.891466,-87.626761,41.879255,-87.639904,casual,11,Fri,Jul,7,Weekday
+D3B5938492EFCE54,docked_bike,7/3/2020 23:33,7/3/2020 23:54,Sheridan Rd & Irving Park Rd,240,Ashland Ave & Grace St,347,41.954245,-87.654406,41.950687,-87.6687,casual,21,Fri,Jul,23,Weekday
+771476FD6D4AB1D4,docked_bike,7/17/2020 9:09,7/17/2020 9:15,Lakeview Ave & Fullerton Pkwy,313,Clark St & Lincoln Ave,141,41.925858,-87.638973,41.915689,-87.6346,member,6,Fri,Jul,9,Weekday
+28FF98397E29E384,docked_bike,6/12/2020 15:50,6/12/2020 16:02,May St & Taylor St,22,Laflin St & Cullerton St,208,41.869482,-87.655486,41.85491458,-87.66355991,member,12,Fri,Jun,15,Weekday
+DD14D80A20D39448,docked_bike,6/26/2020 23:05,6/26/2020 23:19,Greenview Ave & Diversey Pkwy,319,Lakeview Ave & Fullerton Pkwy,313,41.932589,-87.665936,41.925858,-87.638973,member,14,Fri,Jun,23,Weekday
+033EC15D8F00BEE0,docked_bike,8/28/2020 14:43,8/28/2020 14:57,Shedd Aquarium,3,Millennium Park,90,41.867225,-87.615355,41.8810317,-87.62408432,casual,14,Fri,Aug,14,Weekday
+BE494884DEAAD6E3,docked_bike,8/21/2020 17:55,8/21/2020 18:10,Racine Ave & Randolph St,88,Rush St & Superior St,161,41.884069,-87.656853,41.89576475,-87.62590803,member,15,Fri,Aug,17,Weekday
+D2D0D52B445C8253,docked_bike,8/14/2020 19:50,8/14/2020 19:54,Clarendon Ave & Gordon Ter,312,Broadway & Sheridan Rd,256,41.957879,-87.649519,41.952833,-87.649993,member,4,Fri,Aug,19,Weekday
+7F04BCBA613E962E,docked_bike,11/13/2020 20:39,11/13/2020 20:44,Dearborn St & Van Buren St,624,Indiana Ave & Roosevelt Rd,255,41.876268,-87.629155,41.867888,-87.623041,member,5,Fri,Nov,20,Weekday
+38A67B180186A5FD,docked_bike,7/10/2020 23:38,7/11/2020 0:33,Buckingham Fountain,2,Lake Shore Dr & Monroe St,76,41.876511,-87.620548,41.880958,-87.616743,casual,55,Fri,Jul,23,Weekday
+DE885ED1E65A9299,docked_bike,7/3/2020 17:32,7/3/2020 17:48,Chicago Ave & Dempster St,625,Elmwood Ave & Austin St,598,42.041691,-87.680687,42.025784,-87.684107,casual,16,Fri,Jul,17,Weekday
+F26D9CF037CBDB1B,docked_bike,7/17/2020 20:31,7/17/2020 20:47,Oakley Ave & Irving Park Rd,486,California Ave & Fletcher St,498,41.95434,-87.686079,41.93842879,-87.69800776,casual,16,Fri,Jul,20,Weekday
+727D7E8DBB8A7AEF,docked_bike,7/3/2020 11:12,7/3/2020 12:32,Broadway & Waveland Ave,304,Pine Grove Ave & Waveland Ave,232,41.949074,-87.648636,41.949868,-87.646061,casual,80,Fri,Jul,11,Weekday
+2CD5D284A19E2556,docked_bike,10/23/2020 18:39,10/23/2020 18:47,Damen Ave & Division St,130,Ashland Ave & Chicago Ave,350,41.903266,-87.678435,41.895966,-87.667747,member,8,Fri,Oct,18,Weekday
+F3AFC02A4E0008F0,electric_bike,10/30/2020 17:32,10/30/2020 17:42,Theater on the Lake,177,Bissell St & Armitage Ave,113,41.92625583,-87.6309835,41.91864333,-87.65212933,casual,10,Fri,Oct,17,Weekday
+4C414B4F53E1F978,electric_bike,10/16/2020 18:15,10/16/2020 18:39,Morgan St & Lake St,71,Clark St & Wellington Ave,156,41.88546367,-87.65226033,41.936513,-87.647679,member,24,Fri,Oct,18,Weekday
+52037A90B34EE41A,electric_bike,10/30/2020 20:44,10/30/2020 21:04,Sheffield Ave & Webster Ave,327,Southport Ave & Roscoe St,229,41.92175283,-87.65374967,41.9438255,-87.66407067,member,20,Fri,Oct,20,Weekday
+3DE5FD745F6DB78D,docked_bike,3/6/2020 8:04,3/6/2020 8:08,Ogden Ave & Race Ave,186,Carpenter St & Huron St,92,41.8918,-87.6588,41.8946,-87.6534,member,4,Fri,Mar,8,Weekday
+CF9D71693BF26A47,docked_bike,2/14/2020 14:16,2/14/2020 14:20,Wells St & Huron St,53,Orleans St & Merchandise Mart Plaza,100,41.8947,-87.6344,41.8882,-87.6364,member,4,Fri,Feb,14,Weekday
+C45DCA629CAF0BF3,docked_bike,1/10/2020 15:02,1/10/2020 15:16,Mies van der Rohe Way & Chicago Ave,173,Canal St & Monroe St,191,41.8969,-87.6217,41.8817,-87.6395,member,14,Fri,Jan,15,Weekday
+B0242FC5E4587558,docked_bike,3/6/2020 20:53,3/6/2020 20:58,Millennium Park,90,Cityfront Plaza Dr & Pioneer Ct,196,41.881,-87.6241,41.8906,-87.6221,member,5,Fri,Mar,20,Weekday
+FB82E472F3108F64,docked_bike,8/7/2020 6:10,8/7/2020 6:21,Clinton St & Washington Blvd,91,LaSalle St & Washington St,98,41.88338,-87.64117,41.882664,-87.63253,member,11,Fri,Aug,6,Weekday
+70C13AF5034B57D2,docked_bike,8/21/2020 22:39,8/21/2020 22:47,Burling St (Halsted) & Diversey Pkwy (Temp),332,Broadway & Cornelia Ave,303,41.93314,-87.64776,41.945529,-87.646439,casual,8,Fri,Aug,22,Weekday
+CF11E15870E0209F,docked_bike,8/21/2020 19:18,8/21/2020 19:44,Wells St & Huron St,53,California Ave & Cortez St,622,41.894722,-87.634362,41.900363,-87.696704,casual,26,Fri,Aug,19,Weekday
+ACF4B018EE339A27,docked_bike,9/4/2020 18:28,9/4/2020 18:34,Lakeview Ave & Fullerton Pkwy,313,Clark St & Armitage Ave,94,41.925858,-87.638973,41.918306,-87.636282,casual,6,Fri,Sep,18,Weekday
+40DCDE27099DB4F5,electric_bike,9/25/2020 15:13,9/25/2020 15:23,Sheffield Ave & Kingsbury St,20,Milwaukee Ave & Wabansia Ave,158,41.91063767,-87.65326967,41.91257433,-87.68131283,member,10,Fri,Sep,15,Weekday
+34B76308FDBB0183,docked_bike,8/14/2020 20:34,8/14/2020 20:35,Theater on the Lake,177,Theater on the Lake,177,41.926277,-87.630834,41.926277,-87.630834,member,1,Fri,Aug,20,Weekday
+05BB9254CF826BA9,docked_bike,8/21/2020 18:37,8/21/2020 18:39,Broadway & Berwyn Ave,294,Broadway & Argyle St,295,41.978353,-87.659753,41.973815,-87.65966,member,2,Fri,Aug,18,Weekday
+662CDA8328D7ABA2,docked_bike,7/24/2020 21:21,7/24/2020 21:30,Clark St & Lake St,38,Mies van der Rohe Way & Chestnut St,145,41.88602,-87.630876,41.89858665,-87.62191523,member,9,Fri,Jul,21,Weekday
+995D776A5761B82E,docked_bike,7/31/2020 18:04,7/31/2020 18:39,Michigan Ave & 14th St,168,Lake Park Ave & 47th St,267,41.864059,-87.623727,41.809443,-87.591875,member,35,Fri,Jul,18,Weekday
+8FB1F260ADF520CD,docked_bike,7/10/2020 14:22,7/10/2020 17:48,Clark St & Lincoln Ave,141,Clark St & Lincoln Ave,141,41.915689,-87.6346,41.915689,-87.6346,casual,206,Fri,Jul,14,Weekday
+0F44C1D96BF1EA06,docked_bike,7/17/2020 15:57,7/17/2020 16:07,Montrose Harbor,249,Sheridan Rd & Montrose Ave,231,41.963982,-87.638181,41.96167,-87.65464,casual,10,Fri,Jul,15,Weekday
+80C2A3AECAE34311,docked_bike,6/5/2020 13:06,6/5/2020 13:46,South Shore Dr & 71st St,12,South Shore Dr & 71st St,12,41.766409,-87.565687,41.76640946,-87.56568757,casual,40,Fri,Jun,13,Weekday
+499470E7965508BE,docked_bike,6/5/2020 8:02,6/5/2020 8:42,Morgan St & Polk St,241,Morgan St & Polk St,241,41.871737,-87.65103,41.871737,-87.65103,member,40,Fri,Jun,8,Weekday
+34BC1E5524C4E457,docked_bike,6/12/2020 19:06,6/12/2020 19:17,Columbus Dr & Randolph St,195,Green St & Madison St,198,41.884728,-87.619521,41.881892,-87.648789,member,11,Fri,Jun,19,Weekday
+B102F407CC56E3A4,docked_bike,2/7/2020 5:35,2/7/2020 5:39,Sheridan Rd & Buena Ave,306,Broadway & Waveland Ave,304,41.9585,-87.655,41.9491,-87.6486,member,4,Fri,Feb,5,Weekday
+082D2DD5CC53FE60,docked_bike,3/20/2020 8:57,3/20/2020 9:07,Larrabee St & Kingsbury St,48,Michigan Ave & Lake St,52,41.8978,-87.6429,41.886,-87.6241,member,10,Fri,Mar,8,Weekday
+2DC2197900B00D45,docked_bike,2/7/2020 19:28,2/7/2020 19:36,Michigan Ave & 18th St,273,Wabash Ave & 9th St,321,41.8578,-87.6246,41.8708,-87.6257,member,8,Fri,Feb,19,Weekday
+F77E74D7FA76F04D,docked_bike,5/29/2020 9:48,5/29/2020 10:19,Morgan St & Polk St,241,Throop (Loomis) St & Taylor St,19,41.8717,-87.651,41.869,-87.6591,member,31,Fri,May,9,Weekday
+F209B6888BF167CE,docked_bike,5/15/2020 17:08,5/15/2020 17:33,Canal St & Madison St,174,Wilton Ave & Belmont Ave,117,41.8821,-87.6398,41.9402,-87.653,member,25,Fri,May,17,Weekday
+9352A75317161948,docked_bike,5/8/2020 18:54,5/8/2020 19:14,Kingsbury St & Kinzie St,133,Michigan Ave & Lake St,52,41.8892,-87.6385,41.886,-87.6241,casual,20,Fri,May,18,Weekday
+867C57A01553CEC9,docked_bike,5/15/2020 16:20,5/15/2020 16:33,Southport Ave & Belmont Ave,154,Lincoln Ave & Belmont Ave,131,41.9395,-87.6638,41.9394,-87.6684,member,13,Fri,May,16,Weekday
+DA5D80C436B5FDB3,docked_bike,5/15/2020 18:29,5/15/2020 18:51,Lakeview Ave & Fullerton Pkwy,313,Clark St & Drummond Pl,220,41.9259,-87.639,41.9312,-87.6443,casual,22,Fri,May,18,Weekday
+469B3E4D0208C970,docked_bike,11/20/2020 11:14,11/20/2020 11:16,Ellis Ave & 60th St,426,Ellis Ave & 58th St,328,41.785097,-87.601072,41.788746,-87.601334,member,2,Fri,Nov,11,Weekday
+F1888DB8C68B5EA6,docked_bike,11/6/2020 9:51,11/6/2020 9:58,Cottage Grove Ave & Oakwood Blvd,265,Cottage Grove Ave & 47th St,336,41.822985,-87.6071,41.809855,-87.606755,casual,7,Fri,Nov,9,Weekday
+978D535C81F16F83,docked_bike,10/9/2020 16:18,10/9/2020 16:28,Lake Shore Dr & Ohio St,99,Wells St & Elm St,182,41.89257,-87.614492,41.903222,-87.634324,member,10,Fri,Oct,16,Weekday
+9E86EEAA6ADF4B12,docked_bike,10/9/2020 15:54,10/9/2020 16:29,Marine Dr & Ainslie St,465,Broadway & Argyle St,295,41.9716,-87.650154,41.973815,-87.65966,member,35,Fri,Oct,15,Weekday
+249D1E1847E2A348,docked_bike,10/16/2020 9:34,10/16/2020 10:07,Damen Ave & Charleston St,310,Dearborn St & Adams St,37,41.920082,-87.677855,41.87935636,-87.62979104,member,33,Fri,Oct,9,Weekday
+FD5AA008DB55C5EA,docked_bike,10/2/2020 20:41,10/2/2020 20:55,Sedgwick St & North Ave,118,Paulina Ave & North Ave,16,41.911386,-87.638677,41.910337,-87.670072,casual,14,Fri,Oct,20,Weekday
+A0322494B006F769,docked_bike,9/4/2020 17:36,9/4/2020 17:44,Daley Center Plaza,81,Federal St & Polk St,41,41.884241,-87.629634,41.87207763,-87.62954377,member,8,Fri,Sep,17,Weekday
+D857230F65B87382,docked_bike,9/4/2020 18:57,9/4/2020 19:37,Lake Shore Dr & Monroe St,76,Wabash Ave & Cermak Rd,42,41.880958,-87.616743,41.852619,-87.626488,casual,40,Fri,Sep,18,Weekday
+875C3A0B748527F8,docked_bike,9/25/2020 9:31,9/25/2020 9:39,Sedgwick St & Huron St,111,Clark St & Randolph St,51,41.894666,-87.638437,41.88457623,-87.63188991,member,8,Fri,Sep,9,Weekday
+CB90205DCDBFE7FC,docked_bike,7/24/2020 16:07,7/24/2020 16:38,Ashland Ave & Blackhawk St,333,Dusable Harbor,6,41.907066,-87.667252,41.886976,-87.612813,casual,31,Fri,Jul,16,Weekday
+B6E9F51927AFA00D,docked_bike,7/10/2020 12:46,7/10/2020 13:02,Wilton Ave & Belmont Ave,117,Broadway & Wilson Ave,293,41.94018,-87.65304,41.965221,-87.658139,casual,16,Fri,Jul,12,Weekday
+D3E056B6DD8B73A8,docked_bike,6/5/2020 11:03,6/5/2020 11:13,Clinton St & Roosevelt Rd,57,Peoria St & Jackson Blvd,134,41.867117,-87.641087,41.8776416,-87.64961779,member,10,Fri,Jun,11,Weekday
+0E5B11F78F31EDEB,docked_bike,6/26/2020 17:31,6/26/2020 18:13,Wilton Ave & Belmont Ave,117,Bissell St & Armitage Ave,113,41.94018,-87.65304,41.91844,-87.65222,casual,42,Fri,Jun,17,Weekday
+0D412476AE12B4B2,docked_bike,6/19/2020 18:58,6/19/2020 19:11,Sheffield Ave & Webster Ave,327,Southport Ave & Belmont Ave,154,41.92154,-87.653818,41.93949,-87.66378,casual,13,Fri,Jun,18,Weekday
+CD6084E8CEF7AE84,docked_bike,6/12/2020 18:07,6/12/2020 18:18,Sangamon St & Washington Blvd,233,Racine Ave & 18th St,15,41.883165,-87.6511,41.858166,-87.656495,member,11,Fri,Jun,18,Weekday
+A99F96697AC2AF70,docked_bike,2/21/2020 15:55,2/21/2020 15:58,Halsted St & Wrightwood Ave,349,Wilton Ave & Diversey Pkwy,13,41.9291,-87.6491,41.9324,-87.6527,member,3,Fri,Feb,15,Weekday
+3CFBBBEBFFCDF8BC,docked_bike,2/7/2020 7:51,2/7/2020 7:54,Canal St & Jackson Blvd,75,LaSalle St & Jackson Blvd,283,41.8772,-87.6394,41.8782,-87.6319,member,3,Fri,Feb,7,Weekday
+491A21DAF23012A9,docked_bike,3/27/2020 12:57,3/27/2020 13:03,Halsted St & Willow St,224,Wells St & Concord Ln,289,41.9139,-87.6488,41.9121,-87.6347,member,6,Fri,Mar,12,Weekday
+C4998BBB2F838A5C,docked_bike,2/28/2020 7:56,2/28/2020 8:04,Clinton St & Lake St,66,Larrabee St & Kingsbury St,48,41.8856,-87.6418,41.8978,-87.6429,member,8,Fri,Feb,7,Weekday
+7158F49F2B582AEE,docked_bike,1/3/2020 16:46,1/3/2020 16:50,LaSalle St & Adams St,40,Dearborn St & Monroe St,49,41.8793,-87.632,41.8813,-87.6295,member,4,Fri,Jan,16,Weekday
+AD9AA242ADE7C354,docked_bike,3/13/2020 17:23,3/13/2020 17:44,Franklin St & Adams St (Temp),286,Wood St & Milwaukee Ave,61,41.8794,-87.6355,41.9077,-87.6726,member,21,Fri,Mar,17,Weekday
+DBD8E220C3B01971,docked_bike,3/20/2020 15:30,3/20/2020 15:37,Clinton St & Roosevelt Rd,57,Clinton St & Tilden St,68,41.8671,-87.6411,41.8759,-87.6408,member,7,Fri,Mar,15,Weekday
+B6D90117CA1BB0BE,docked_bike,3/13/2020 20:27,3/13/2020 20:36,Halsted St & Roscoe St,299,Lincoln Ave & Addison St,330,41.9437,-87.649,41.9462,-87.6733,member,9,Fri,Mar,20,Weekday
+85A32F0CBB5CEF9B,docked_bike,5/29/2020 15:07,5/29/2020 15:35,Woodlawn Ave & 55th St,248,MLK Jr Dr & 29th St,237,41.7953,-87.5965,41.8421,-87.617,member,28,Fri,May,15,Weekday
+E8E24E9298E2214C,docked_bike,5/1/2020 17:02,5/1/2020 17:39,Chicago Ave & Sheridan Rd,603,Broadway & Berwyn Ave,294,42.0505,-87.6778,41.9784,-87.6598,member,37,Fri,May,17,Weekday
+A9DAFC647DB262F5,docked_bike,5/15/2020 21:24,5/15/2020 21:44,Indiana Ave & Roosevelt Rd,255,Fairbanks Ct & Grand Ave,24,41.8679,-87.623,41.8918,-87.6206,member,20,Fri,May,21,Weekday
+BB6DFFA42E23E31F,docked_bike,5/29/2020 18:59,5/29/2020 19:10,Sheffield Ave & Waveland Ave,114,Sheffield Ave & Wrightwood Ave,302,41.9494,-87.6545,41.9287,-87.6538,member,11,Fri,May,18,Weekday
+80B9303AC9EA73DC,electric_bike,10/2/2020 19:03,10/2/2020 19:13,Ellis Ave & 55th St,420,Shore Dr & 55th St,247,41.79431917,-87.60139033,41.79523733,-87.580923,casual,10,Fri,Oct,19,Weekday
+78F4E100DB8E98F4,docked_bike,10/9/2020 17:00,10/9/2020 17:13,Racine Ave & Wrightwood Ave,343,Theater on the Lake,177,41.928887,-87.658971,41.926277,-87.630834,member,13,Fri,Oct,17,Weekday
+6D2A1CE8E446CA8B,docked_bike,9/11/2020 13:11,9/11/2020 13:21,Desplaines St & Jackson Blvd,107,Morgan St & 18th St,14,41.878287,-87.643909,41.858086,-87.651073,member,10,Fri,Sep,13,Weekday
+DAF7A7C29192C93F,docked_bike,9/11/2020 8:31,9/11/2020 8:38,Racine Ave & Randolph St,88,Clinton St & Lake St,66,41.884069,-87.656853,41.885637,-87.641823,casual,7,Fri,Sep,8,Weekday
+B2B36413CA19BB67,docked_bike,9/18/2020 14:15,9/18/2020 14:34,Clark St & Leland Ave,326,Burling St (Halsted) & Diversey Pkwy (Temp),332,41.967096,-87.667429,41.93314,-87.64776,member,19,Fri,Sep,14,Weekday
+988BD18C742FE775,docked_bike,7/24/2020 10:26,7/24/2020 11:30,Monticello Ave & Irving Park Rd,484,Keystone Ave & Montrose Ave,495,41.954004,-87.719128,41.96110802,-87.7289701,casual,64,Fri,Jul,10,Weekday
+9CD2A6512C14A338,docked_bike,7/24/2020 18:54,7/24/2020 19:05,Damen Ave & Foster Ave,464,Damen Ave & Foster Ave,464,41.975614,-87.679459,41.9756148,-87.67945904,member,11,Fri,Jul,18,Weekday
+0110BC114D54F5E1,docked_bike,7/24/2020 6:49,7/24/2020 6:54,Sheridan Rd & Irving Park Rd,240,Clarendon Ave & Gordon Ter,312,41.954245,-87.654406,41.957879,-87.649519,member,5,Fri,Jul,6,Weekday
+69B46FEB92598135,docked_bike,7/24/2020 11:29,7/24/2020 11:39,Damen Ave & Cortland St,219,Sheffield Ave & Webster Ave,327,41.915983,-87.677335,41.92154,-87.653818,member,10,Fri,Jul,11,Weekday
+BCC4C97E823ECA66,electric_bike,12/11/2020 14:42,12/11/2020 14:53,Stony Island Ave & 82nd St,583,Greenwood Ave & 79th St,576,41.7466095,-87.58599717,41.75146483,-87.5963895,casual,11,Fri,Dec,14,Weekday
+73DDA5102077221E,docked_bike,7/24/2020 19:01,7/24/2020 19:26,Damen Ave & Melrose Ave,228,Clark St & Armitage Ave,94,41.9406,-87.6785,41.918306,-87.636282,casual,25,Fri,Jul,19,Weekday
+5B0C5237C66ACECC,docked_bike,7/3/2020 16:25,7/3/2020 16:56,Pine Grove Ave & Waveland Ave,232,LaSalle St & Illinois St,181,41.949867,-87.646061,41.890762,-87.631697,casual,31,Fri,Jul,16,Weekday
+C6E570EC7AA1BF41,docked_bike,7/3/2020 18:28,7/3/2020 18:52,Lincoln Park Conservatory,673,Lincoln Park Conservatory,673,41.923931,-87.635825,41.923931,-87.635825,casual,24,Fri,Jul,18,Weekday
+F23C2318BCE16FC0,docked_bike,6/12/2020 17:21,6/12/2020 17:28,Clark St & Grace St,165,Clark St & Leland Ave,326,41.95078,-87.659172,41.967096,-87.667429,member,7,Fri,Jun,17,Weekday
+EC30A4D82D98CD89,docked_bike,1/17/2020 7:44,1/17/2020 7:51,Stetson Ave & South Water St,264,LaSalle St & Jackson Blvd,283,41.8868,-87.6223,41.8782,-87.6319,member,7,Fri,Jan,7,Weekday
+80ABA219294F93A9,docked_bike,2/21/2020 15:39,2/21/2020 15:49,Larrabee St & Kingsbury St,48,Desplaines St & Kinzie St,56,41.8978,-87.6429,41.8887,-87.6444,member,10,Fri,Feb,15,Weekday
+30A2204D59A652A6,docked_bike,2/7/2020 15:34,2/7/2020 15:38,Clinton St & Tilden St,68,Clinton St & Roosevelt Rd,57,41.8759,-87.6408,41.8671,-87.6411,member,4,Fri,Feb,15,Weekday
+E049CA7BC6A0C5E6,docked_bike,2/28/2020 16:01,2/28/2020 16:08,Green St & Madison St,198,Milwaukee Ave & Grand Ave,84,41.8819,-87.6488,41.8916,-87.6484,member,7,Fri,Feb,16,Weekday
+62AB61024898512D,docked_bike,5/1/2020 6:37,5/1/2020 6:47,Larrabee St & Kingsbury St,48,Mies van der Rohe Way & Chicago Ave,173,41.8978,-87.6429,41.8969,-87.6217,member,10,Fri,May,6,Weekday
+76827439CF3FA06E,docked_bike,5/29/2020 11:37,5/29/2020 11:48,Orleans St & Chestnut St (NEXT Apts),620,Lake Shore Dr & North Blvd,268,41.8982,-87.6375,41.9117,-87.6268,member,11,Fri,May,11,Weekday
+3535BCDCC8C5DAE9,docked_bike,11/20/2020 12:27,11/20/2020 12:59,Laflin St & Cullerton St,208,Racine Ave & 18th St,15,41.854914,-87.663559,41.858166,-87.656495,member,32,Fri,Nov,12,Weekday
+42280602879CFC84,docked_bike,11/13/2020 1:58,11/13/2020 2:08,Clinton St & Lake St,66,Noble St & Milwaukee Ave,29,41.885637,-87.641823,41.90068,-87.6626,member,10,Fri,Nov,1,Weekday
+19BFBEF8562E1907,docked_bike,11/13/2020 15:47,11/13/2020 16:09,Field Blvd & South Water St,7,Wells St & Concord Ln,289,41.886349,-87.617516,41.912133,-87.634656,member,22,Fri,Nov,15,Weekday
+65F71CAE32F42918,docked_bike,11/27/2020 12:02,11/27/2020 12:07,Franklin St & Illinois St,672,Desplaines St & Kinzie St,56,41.891023,-87.635479,41.88871604,-87.64444785,member,5,Fri,Nov,12,Weekday
+4C5882776BBD2BDB,electric_bike,10/2/2020 19:29,10/2/2020 19:35,LaSalle St & Illinois St,181,Clark St & Schiller St,301,41.89090683,-87.63190967,41.907891,-87.6314505,casual,6,Fri,Oct,19,Weekday
+680E12F6230DF0DA,electric_bike,10/16/2020 18:24,10/16/2020 18:54,Damen Ave & Charleston St,310,Broadway & Thorndale Ave,458,41.92016833,-87.67795967,41.98973267,-87.6601495,casual,30,Fri,Oct,18,Weekday
+84311DAAA0964E74,docked_bike,9/4/2020 9:04,9/4/2020 9:09,Indiana Ave & 31st St,272,Rhodes Ave & 32nd St,263,41.838842,-87.621857,41.836208,-87.613533,member,5,Fri,Sep,9,Weekday
+F5516392EEB18D19,docked_bike,9/4/2020 18:32,9/4/2020 19:43,Southport Ave & Wellington Ave,153,Sheffield Ave & Wrightwood Ave,302,41.935733,-87.663576,41.928712,-87.653833,casual,71,Fri,Sep,18,Weekday
+0DB1CD63D78EACF8,docked_bike,9/18/2020 7:47,9/18/2020 8:11,LaSalle Dr & Huron St,627,Broadway & Cornelia Ave,303,41.894877,-87.632326,41.945529,-87.646439,casual,24,Fri,Sep,7,Weekday
+1D3D4FE6C938D7ED,docked_bike,9/4/2020 11:13,9/4/2020 11:23,Southport Ave & Wellington Ave,153,Sheffield Ave & Fullerton Ave,67,41.935733,-87.663576,41.92560188,-87.65370804,casual,10,Fri,Sep,11,Weekday
+88A370250451A545,electric_bike,9/25/2020 16:22,9/25/2020 16:43,Fairbanks Ct & Grand Ave,24,Wabash Ave & 16th St,72,41.89219417,-87.6209275,41.8606645,-87.6257105,casual,21,Fri,Sep,16,Weekday
+CEE5D03F33509AFA,docked_bike,7/31/2020 21:29,7/31/2020 22:00,LaSalle St & Illinois St,181,Kedzie Ave & Milwaukee Ave,260,41.890762,-87.631697,41.929567,-87.707857,casual,31,Fri,Jul,21,Weekday
+4ABF035EFCCD11D6,docked_bike,7/24/2020 17:19,7/24/2020 17:30,Racine Ave & Belmont Ave,226,Racine Ave & Fullerton Ave,87,41.939743,-87.658865,41.92556258,-87.65840426,casual,11,Fri,Jul,17,Weekday
+5166DE2D188FBB77,docked_bike,6/12/2020 22:02,6/12/2020 22:17,Clark St & Elm St,176,Wabash Ave & 9th St,321,41.902973,-87.63128,41.870769,-87.625734,casual,15,Fri,Jun,22,Weekday
+439344E578DF079D,docked_bike,8/28/2020 8:32,8/28/2020 8:52,Southport Ave & Wrightwood Ave,190,Rush St & Superior St,161,41.928773,-87.663913,41.89576475,-87.62590803,member,20,Fri,Aug,8,Weekday
+2791D36A90A59568,docked_bike,7/24/2020 12:20,7/24/2020 12:46,Honore St & Division St,17,Dusable Harbor,6,41.903119,-87.673935,41.886976,-87.612813,member,26,Fri,Jul,12,Weekday
+2B35E84205C8F361,docked_bike,7/17/2020 13:37,7/17/2020 13:54,Federal St & Polk St,41,Adler Planetarium,341,41.872078,-87.629544,41.866095,-87.607267,casual,17,Fri,Jul,13,Weekday
+016189890B8180D9,docked_bike,7/10/2020 13:07,7/10/2020 13:20,Lincoln Ave & Fullerton Ave,127,Theater on the Lake,177,41.925905,-87.64926,41.926277,-87.630834,casual,13,Fri,Jul,13,Weekday
+4D393BD1FA0C99C6,electric_bike,10/9/2020 19:53,10/9/2020 20:01,Lakeview Ave & Fullerton Pkwy,313,Wells St & Evergreen Ave,291,41.92578333,-87.6389545,41.906884,-87.6349855,member,8,Fri,Oct,19,Weekday
+63F859B5527329BD,docked_bike,10/16/2020 11:08,10/16/2020 11:15,Franklin St & Monroe St,287,Larrabee St & Kingsbury St,48,41.880317,-87.635185,41.897764,-87.642884,member,7,Fri,Oct,11,Weekday
+5671CC8DC7D1D673,docked_bike,2/7/2020 9:26,2/7/2020 9:33,Loomis St & Lexington St,320,Morgan St & Polk St,241,41.8722,-87.6615,41.8717,-87.651,member,7,Fri,Feb,9,Weekday
+C190D48F81F4B503,electric_bike,9/25/2020 23:12,9/25/2020 23:54,Damen Ave & Thomas St (Augusta Blvd),183,Lake Shore Dr & Ohio St,99,41.9013545,-87.67746333,41.89258733,-87.61444483,casual,42,Fri,Sep,23,Weekday
+7C9808D619F78B77,docked_bike,8/28/2020 13:04,8/28/2020 13:11,Ravenswood Ave & Irving Park Rd,244,Ravenswood Ave & Lawrence Ave,344,41.95469,-87.67393,41.96909,-87.674237,member,7,Fri,Aug,13,Weekday
+61E856A29BD10AF9,docked_bike,8/14/2020 13:07,8/14/2020 13:20,Lincoln Ave & Belmont Ave,131,Lincoln Ave & Fullerton Ave,127,41.939365,-87.668385,41.925905,-87.64926,casual,13,Fri,Aug,13,Weekday
+C490C29D7366A362,docked_bike,9/18/2020 16:17,9/18/2020 16:27,Milwaukee Ave & Grand Ave,84,St. Clair St & Erie St,211,41.891578,-87.648384,41.894448,-87.622663,member,10,Fri,Sep,16,Weekday
+5EE430812CBFED1E,docked_bike,7/17/2020 16:40,7/17/2020 17:04,Kingsbury St & Kinzie St,133,Artesian Ave & Hubbard St,376,41.889176,-87.638505,41.88949182,-87.68821936,member,24,Fri,Jul,16,Weekday
+481616F85E65A572,docked_bike,6/26/2020 12:37,6/26/2020 12:49,MLK Jr Dr & 63rd St,430,Halsted St & 63rd St,388,41.78008,-87.615942,41.77938114,-87.64462081,casual,12,Fri,Jun,12,Weekday
+90C240900798FD6F,docked_bike,6/12/2020 19:52,6/12/2020 20:39,Wolcott (Ravenswood) Ave & Montrose Ave,238,Keystone Ave & Montrose Ave,495,41.961406,-87.676169,41.961108,-87.72897,casual,47,Fri,Jun,19,Weekday
+22BD53249C1B2A83,docked_bike,6/5/2020 18:34,6/5/2020 18:56,Humboldt Blvd & Armitage Ave,507,Wood St & Hubbard St,285,41.917513,-87.701808,41.889899,-87.671473,member,22,Fri,Jun,18,Weekday
+9525D46ECA692919,docked_bike,6/12/2020 20:44,6/12/2020 21:09,Sheffield Ave & Kingsbury St,20,Pine Grove Ave & Waveland Ave,232,41.910522,-87.653106,41.94986772,-87.64606118,member,25,Fri,Jun,20,Weekday
+1ED892F51E550DBA,docked_bike,8/21/2020 20:00,8/21/2020 20:13,Eckhart Park,86,Clark St & Chicago Ave,337,41.896373,-87.660983,41.89675,-87.63089,member,13,Fri,Aug,20,Weekday
+453D3B61BD722938,docked_bike,8/14/2020 16:56,8/14/2020 17:24,California Ave & Fletcher St,498,Richmond St & Diversey Ave,501,41.938428,-87.698007,41.93190197,-87.70119513,member,28,Fri,Aug,16,Weekday
+9D1C52B38D29DCEE,docked_bike,11/6/2020 17:17,11/6/2020 17:21,Halsted St & Dickens Ave,225,Clifton Ave & Armitage Ave,223,41.919936,-87.64883,41.918216,-87.656936,member,4,Fri,Nov,17,Weekday
+808B6A99697229ED,docked_bike,11/13/2020 6:16,11/13/2020 7:21,Walsh Park,628,Central Park Ave & North Ave,508,41.91461,-87.667968,41.90965688,-87.71663195,casual,65,Fri,Nov,6,Weekday
+D03767ED2895351B,docked_bike,7/31/2020 17:53,7/31/2020 18:26,Theater on the Lake,177,Damen Ave & Grand Ave,214,41.926277,-87.630834,41.89122,-87.67686,casual,33,Fri,Jul,17,Weekday
+B4D923E63D57A543,docked_bike,7/3/2020 10:09,7/3/2020 10:28,Clark St & Newport St,632,Lake Shore Dr & Diversey Pkwy,329,41.94454,-87.654678,41.932588,-87.636427,casual,19,Fri,Jul,10,Weekday
+A76BD1066E679E69,docked_bike,7/24/2020 23:42,7/24/2020 23:48,Southport Ave & Wellington Ave,153,Greenview Ave & Fullerton Ave,188,41.935733,-87.663576,41.92533,-87.6658,casual,6,Fri,Jul,23,Weekday
+77F2DFFF0D877E56,docked_bike,7/10/2020 19:02,7/10/2020 19:13,Clark St & Elm St,176,Wells St & Hubbard St,212,41.902973,-87.63128,41.889906,-87.634266,member,11,Fri,Jul,19,Weekday
+C731BF42046629CC,docked_bike,10/16/2020 18:11,10/16/2020 18:19,Clark St & Elm St,176,LaSalle St & Illinois St,181,41.902973,-87.63128,41.890762,-87.631697,member,8,Fri,Oct,18,Weekday
+0E0017840E17CE7D,docked_bike,10/23/2020 19:44,10/23/2020 19:56,Sheridan Rd & Lawrence Ave,323,Sheridan Rd & Lawrence Ave,323,41.969517,-87.654691,41.969517,-87.654691,member,12,Fri,Oct,19,Weekday
+2087457870DFCCB4,docked_bike,1/10/2020 18:06,1/10/2020 18:38,Larrabee St & Kingsbury St,48,Blue Island Ave & 18th St,129,41.8978,-87.6429,41.8576,-87.6615,member,32,Fri,Jan,18,Weekday
+CF56A0ECB0A93035,docked_bike,1/17/2020 7:02,1/17/2020 7:10,LaSalle Dr & Huron St,627,Mies van der Rohe Way & Chestnut St,145,41.8949,-87.6323,41.8986,-87.6219,member,8,Fri,Jan,7,Weekday
+663D34A14E6E8FE9,docked_bike,2/28/2020 16:01,2/28/2020 16:06,Broadway & Belmont Ave,296,Pine Grove Ave & Waveland Ave,232,41.9401,-87.6455,41.9493,-87.6463,member,5,Fri,Feb,16,Weekday
+3B7765864BCE0944,docked_bike,3/27/2020 12:05,3/27/2020 12:14,Marine Dr & Ainslie St,465,Clarendon Ave & Leland Ave,251,41.9716,-87.6502,41.968,-87.65,member,9,Fri,Mar,12,Weekday
+CB85E7C4B1202597,docked_bike,8/14/2020 18:26,8/14/2020 18:52,St. Clair St & Erie St,211,Southport Ave & Wrightwood Ave,190,41.894448,-87.622663,41.928773,-87.663913,member,26,Fri,Aug,18,Weekday
+A6ED7B9AF8D07E61,docked_bike,9/25/2020 23:28,9/25/2020 23:32,Kimbark Ave & 53rd St,322,Blackstone Ave & Hyde Park Blvd,121,41.799568,-87.594747,41.802562,-87.590368,casual,4,Fri,Sep,23,Weekday
+B7988E61F44711F6,docked_bike,9/4/2020 14:13,9/4/2020 14:22,Ogden Ave & Race Ave,186,Damen Ave & Chicago Ave,128,41.891795,-87.658751,41.895769,-87.67722,casual,9,Fri,Sep,14,Weekday
+EE528714B455E9A3,docked_bike,9/25/2020 9:46,9/25/2020 9:48,Calumet Ave & 33rd St,149,State St & 33rd St,148,41.8349,-87.61793,41.834734,-87.625813,member,2,Fri,Sep,9,Weekday
+FCF98723EC5E90AF,docked_bike,9/25/2020 10:27,9/25/2020 10:48,Dorchester Ave & 49th St,416,State St & 33rd St,148,41.805772,-87.592464,41.834734,-87.625813,member,21,Fri,Sep,10,Weekday
+E4557EB1C5C52DFF,docked_bike,9/25/2020 20:45,9/25/2020 20:57,Sedgwick St & Huron St,111,Mies van der Rohe Way & Chicago Ave,173,41.894666,-87.638437,41.89691,-87.621743,member,12,Fri,Sep,20,Weekday
+275A5FF985F16EAC,electric_bike,8/28/2020 20:11,8/28/2020 21:24,Cottage Grove Ave & Oakwood Blvd,265,Wells St & Evergreen Ave,291,41.822935,-87.60707583,41.90652533,-87.635008,member,73,Fri,Aug,20,Weekday
+F06F7CF431FEFA07,docked_bike,7/31/2020 13:21,7/31/2020 13:50,Broadway & Cornelia Ave,303,Montrose Harbor,249,41.945529,-87.646439,41.963982,-87.638181,casual,29,Fri,Jul,13,Weekday
+8695F0460C09BC52,docked_bike,6/5/2020 13:03,6/5/2020 13:07,LaSalle Dr & Huron St,627,Clark St & Elm St,176,41.894877,-87.632326,41.902973,-87.63128,member,4,Fri,Jun,13,Weekday
+9CBFDE8B7EC5D3A1,docked_bike,6/5/2020 8:48,6/5/2020 8:59,Lakeview Ave & Fullerton Pkwy,313,Sheffield Ave & Waveland Ave,114,41.925858,-87.638973,41.949399,-87.654529,member,11,Fri,Jun,8,Weekday
+FAE5F57948855AF0,docked_bike,6/19/2020 12:23,6/19/2020 14:03,Chicago Ave & Dempster St,625,Milwaukee Ave & Cuyler Ave,589,42.041691,-87.680687,41.954468,-87.749594,casual,100,Fri,Jun,12,Weekday
+5AA8C2FFA4FC767A,docked_bike,6/19/2020 10:22,6/19/2020 10:39,Halsted St & Maxwell St,282,Morgan St & 31st St,280,41.864883,-87.647071,41.8378,-87.65114,member,17,Fri,Jun,10,Weekday
+6BD84F40577BFF17,docked_bike,8/7/2020 10:08,8/7/2020 10:18,Wood St & Hubbard St,285,Green St & Randolph St,112,41.889899,-87.671473,41.883668,-87.64867,casual,10,Fri,Aug,10,Weekday
+88BD842EA27F1421,docked_bike,8/21/2020 22:08,8/21/2020 22:29,Lake Shore Dr & Wellington Ave,157,Broadway & Wilson Ave,293,41.936688,-87.636829,41.965221,-87.658139,casual,21,Fri,Aug,22,Weekday
+C71C1FD3E139BC6C,docked_bike,8/28/2020 15:42,8/28/2020 16:28,Lake Shore Dr & Diversey Pkwy,329,Clarendon Ave & Junior Ter,245,41.932588,-87.636427,41.961004,-87.649603,member,46,Fri,Aug,15,Weekday
+32C503CEBD1B91BA,docked_bike,11/20/2020 7:39,11/20/2020 7:51,Clybourn Ave & Division St,138,Wabash Ave & Wacker Pl,194,41.904613,-87.640552,41.886875,-87.62603,member,12,Fri,Nov,7,Weekday
+52438A961440B317,docked_bike,7/24/2020 20:08,7/24/2020 20:30,Clifton Ave & Armitage Ave,223,Theater on the Lake,177,41.918216,-87.656936,41.926277,-87.630834,member,22,Fri,Jul,20,Weekday
+581A93E5D3E55714,docked_bike,10/9/2020 15:33,10/9/2020 16:08,Wilton Ave & Belmont Ave,117,Desplaines St & Kinzie St,56,41.94018,-87.65304,41.88871604,-87.64444785,casual,35,Fri,Oct,15,Weekday
+2B419175F01073E6,docked_bike,10/2/2020 19:07,10/2/2020 19:13,Clark St & Ida B Wells Dr,50,Wabash Ave & Roosevelt Rd,59,41.875932,-87.630584,41.867227,-87.625961,member,6,Fri,Oct,19,Weekday
+DE1D8B48F0424D82,docked_bike,10/2/2020 17:47,10/2/2020 18:15,Michigan Ave & Pearson St,25,LaSalle St & Washington St,98,41.89766,-87.62351,41.882664,-87.63253,casual,28,Fri,Oct,17,Weekday
+EE954EF7A26710DE,docked_bike,2/21/2020 16:34,2/21/2020 16:44,Michigan Ave & Washington St,43,Desplaines St & Randolph St,96,41.884,-87.6247,41.8846,-87.6446,member,10,Fri,Feb,16,Weekday
+B121213894467E65,docked_bike,2/21/2020 18:10,2/21/2020 18:13,Aberdeen St & Monroe St,80,Peoria St & Jackson Blvd,134,41.8804,-87.6555,41.8776,-87.6496,member,3,Fri,Feb,18,Weekday
+648E712886CAB417,docked_bike,2/7/2020 18:49,2/7/2020 18:55,Morgan St & Polk St,241,Canal St & Taylor St,414,41.8717,-87.651,41.8703,-87.6395,member,6,Fri,Feb,18,Weekday
+05D376D921D54755,docked_bike,1/31/2020 1:21,1/31/2020 1:24,University Ave & 57th St,423,Woodlawn Ave & 55th St,248,41.7915,-87.5999,41.7953,-87.5965,member,3,Fri,Jan,1,Weekday
+BACE3C88C2951213,docked_bike,1/3/2020 21:12,1/3/2020 21:21,California Ave & Division St,216,Albany Ave & Bloomingdale Ave,511,41.903,-87.6975,41.914,-87.7051,member,9,Fri,Jan,21,Weekday
+4C1EB653232A3F56,docked_bike,8/7/2020 7:20,8/7/2020 7:52,Sheffield Ave & Waveland Ave,114,Western Ave & Division St,305,41.949399,-87.654529,41.902893,-87.687275,casual,32,Fri,Aug,7,Weekday
+EB85668127CA27E0,docked_bike,8/14/2020 17:44,8/14/2020 17:52,McClurg Ct & Illinois St,26,Lake Shore Dr & Monroe St,76,41.890359,-87.617532,41.880958,-87.616743,casual,8,Fri,Aug,17,Weekday
+8F2D23FB3CA4278F,docked_bike,8/21/2020 15:47,8/21/2020 15:59,Lake Shore Dr & North Blvd,268,Larrabee St & Webster Ave,144,41.911722,-87.626804,41.921822,-87.64414,member,12,Fri,Aug,15,Weekday
+1818ECEE162F7BDA,docked_bike,9/18/2020 14:57,9/18/2020 15:28,Lake Shore Dr & Monroe St,76,Millennium Park,90,41.880958,-87.616743,41.881032,-87.624084,casual,31,Fri,Sep,14,Weekday
+5E7CF9B6B1EB5F57,docked_bike,9/11/2020 2:42,9/11/2020 3:08,Cornell Dr & Hayes Dr,653,Stony Island Ave & 71st St,356,41.780595,-87.584846,41.766493,-87.586461,casual,26,Fri,Sep,2,Weekday
+4D138A1F6301F868,docked_bike,9/4/2020 23:59,9/5/2020 0:32,Michigan Ave & Lake St,52,Lincoln Park Conservatory,673,41.886024,-87.624117,41.92393131,-87.63582453,casual,33,Fri,Sep,23,Weekday
+CC542A0EED4D06A7,docked_bike,8/7/2020 15:14,8/7/2020 15:30,Broadway & Granville Ave,454,Clark St & Winnemac Ave,325,41.994779,-87.660284,41.97334,-87.66778,casual,16,Fri,Aug,15,Weekday
+140745CDCEEC9E8D,docked_bike,8/7/2020 15:02,8/7/2020 15:48,Ellis Ave & 58th St,328,Ellis Ave & 55th St,420,41.788746,-87.601334,41.79430062,-87.60144977,member,46,Fri,Aug,15,Weekday
+FDAE17EC025F666B,docked_bike,7/17/2020 7:30,7/17/2020 7:51,Clarendon Ave & Junior Ter,245,Theater on the Lake,177,41.961004,-87.649603,41.926277,-87.630834,member,21,Fri,Jul,7,Weekday
+E7F694E6A101D8B9,docked_bike,7/10/2020 18:47,7/10/2020 18:58,Aberdeen St & Jackson Blvd,21,Loomis St & Lexington St,320,41.877726,-87.654787,41.872187,-87.661501,member,11,Fri,Jul,18,Weekday
+8E5DA82AF8C9D7F1,docked_bike,7/3/2020 11:01,7/3/2020 11:19,Michigan Ave & 18th St,273,McClurg Ct & Erie St,142,41.857813,-87.62455,41.894503,-87.617854,casual,18,Fri,Jul,11,Weekday
+8DAFDB732B211D90,docked_bike,7/3/2020 23:27,7/4/2020 0:35,Wabash Ave & Adams St,39,Wabash Ave & Adams St,39,41.879472,-87.625688,41.87947235,-87.62568861,casual,68,Fri,Jul,23,Weekday
+A05C89FD62D062E9,electric_bike,8/28/2020 8:30,8/28/2020 8:36,Ogden Ave & Roosevelt Rd,434,Ashland Ave & 13th St,275,41.8665425,-87.68449317,41.865335,-87.6665255,member,6,Fri,Aug,8,Weekday
+FD8F49EEED36683B,docked_bike,8/7/2020 18:49,8/7/2020 19:05,Clark St & Jarvis Ave,517,Clark St & Schreiber Ave,453,42.015963,-87.675005,41.99925182,-87.67137734,casual,16,Fri,Aug,18,Weekday
+F0F0286F8E400E44,docked_bike,8/21/2020 6:21,8/21/2020 6:30,Sedgwick St & North Ave,118,Rush St & Superior St,161,41.911386,-87.638677,41.89576475,-87.62590803,member,9,Fri,Aug,6,Weekday
+BAB9EE425E71DB6D,docked_bike,8/14/2020 16:46,8/14/2020 17:26,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,76,41.880958,-87.616743,41.880958,-87.616743,casual,40,Fri,Aug,16,Weekday
+EDB4741F80854F7A,docked_bike,8/14/2020 11:39,8/14/2020 11:51,Spaulding Ave & Armitage Ave,506,Damen Ave & Cortland St,219,41.917108,-87.71022,41.915983,-87.677335,casual,12,Fri,Aug,11,Weekday
+235B2BB06722C57E,docked_bike,8/21/2020 21:32,8/21/2020 21:46,Clark St & Armitage Ave,94,Wilton Ave & Diversey Pkwy,13,41.918306,-87.636282,41.932418,-87.652705,casual,14,Fri,Aug,21,Weekday
+5C0D8BB9BB8AF0C1,electric_bike,11/20/2020 17:07,11/20/2020 17:36,Lincoln Ave & Sunnyside Ave,243,Clark St & Elmdale Ave,457,41.96311283,-87.68480683,41.99087733,-87.66949567,casual,29,Fri,Nov,17,Weekday
+E7FF84EB34A89402,docked_bike,11/6/2020 16:04,11/6/2020 16:12,Broadway & Berwyn Ave,294,Broadway & Thorndale Ave,458,41.978353,-87.659753,41.98974251,-87.66014062,member,8,Fri,Nov,16,Weekday
+43EDFD839515724E,docked_bike,7/3/2020 21:18,7/3/2020 22:38,Theater on the Lake,177,Cannon Dr & Fullerton Ave,34,41.926277,-87.630834,41.926756,-87.634429,casual,80,Fri,Jul,21,Weekday
+93C18ECA4D60BBF0,docked_bike,7/10/2020 16:40,7/10/2020 16:45,Wells St & Evergreen Ave,291,Clark St & Lincoln Ave,141,41.906724,-87.63483,41.915689,-87.6346,casual,5,Fri,Jul,16,Weekday
+9BBC8716C6340A95,docked_bike,7/17/2020 18:32,7/17/2020 19:28,Ellis Ave & 58th St,328,Millennium Park,90,41.788746,-87.601334,41.8810317,-87.62408432,casual,56,Fri,Jul,18,Weekday
+31262B71413278AF,docked_bike,10/16/2020 17:53,10/16/2020 18:04,Wolcott Ave & Polk St,342,Aberdeen St & Jackson Blvd,21,41.871262,-87.673688,41.87772613,-87.65478743,member,11,Fri,Oct,17,Weekday
+804356C8E7E9D7E9,docked_bike,10/9/2020 20:14,10/9/2020 20:18,Franklin St & Jackson Blvd,36,Desplaines St & Jackson Blvd,107,41.877707,-87.635321,41.878287,-87.643909,member,4,Fri,Oct,20,Weekday
+0D74CE4654C29C3C,docked_bike,10/30/2020 12:27,10/30/2020 12:28,Leavitt St & North Ave,213,Milwaukee Ave & Wabansia Ave,158,41.910509,-87.682389,41.912616,-87.681391,member,1,Fri,Oct,12,Weekday
+BD5DEE526263AFDB,docked_bike,2/28/2020 17:24,2/28/2020 17:31,Lincoln Ave & Belmont Ave,131,Ashland Ave & Grace St,347,41.9394,-87.6684,41.9507,-87.6687,member,7,Fri,Feb,17,Weekday
+5A746E56D1C0790D,docked_bike,3/13/2020 7:49,3/13/2020 8:00,Wood St & Milwaukee Ave,61,Sheffield Ave & Willow St,93,41.9077,-87.6726,41.9137,-87.6529,member,11,Fri,Mar,7,Weekday
+F1157583322E4D8A,docked_bike,1/10/2020 19:17,1/10/2020 19:31,Damen Ave & Cullerton St,124,Western Ave & Fillmore St (*),644,41.855,-87.6757,41.8686,-87.6862,member,14,Fri,Jan,19,Weekday
+1A39A54BF63FA7BC,docked_bike,2/28/2020 18:15,2/28/2020 18:20,Clark St & Elm St,176,Clybourn Ave & Division St,138,41.903,-87.6313,41.9046,-87.6406,member,5,Fri,Feb,18,Weekday
+E644C1E3E53B3779,docked_bike,2/14/2020 17:06,2/14/2020 17:10,University Ave & 57th St,423,Ellis Ave & 53rd St,418,41.7915,-87.5999,41.7993,-87.601,member,4,Fri,Feb,17,Weekday
+6A77B342F427D736,docked_bike,1/3/2020 14:31,1/3/2020 14:34,Aberdeen St & Monroe St,80,Sangamon St & Washington Blvd,233,41.8804,-87.6555,41.8832,-87.6511,member,3,Fri,Jan,14,Weekday
+C16BA50D60D60170,electric_bike,8/14/2020 18:39,8/14/2020 19:08,Sheridan Rd & Columbia Ave,660,Benson Ave & Church St,596,42.0045805,-87.6614105,42.04807717,-87.683178,casual,29,Fri,Aug,18,Weekday
+67A64C08E413D85D,docked_bike,8/21/2020 18:23,8/21/2020 18:29,Ashland Ave & Wrightwood Ave,166,Southport Ave & Wrightwood Ave,190,41.92883,-87.668507,41.928773,-87.663913,casual,6,Fri,Aug,18,Weekday
+ED40E24DECFEC52C,docked_bike,9/11/2020 16:25,9/11/2020 16:32,Franklin St & Chicago Ave,31,Michigan Ave & Oak St,85,41.896746,-87.635667,41.90096039,-87.62377664,member,7,Fri,Sep,16,Weekday
+ADD6E422C63C61AA,docked_bike,9/4/2020 23:40,9/4/2020 23:41,Franklin St & Lake St,164,Orleans St & Merchandise Mart Plaza,100,41.885837,-87.6355,41.888243,-87.63639,member,1,Fri,Sep,23,Weekday
+A3CB1E6257BF19BA,docked_bike,8/21/2020 14:49,8/21/2020 15:00,Lakeview Ave & Fullerton Pkwy,313,Lake Shore Dr & Wellington Ave,157,41.925858,-87.638973,41.93668845,-87.63682902,member,11,Fri,Aug,14,Weekday
+4F0DDCC278544669,docked_bike,8/7/2020 15:00,8/7/2020 16:09,Broadway & Barry Ave,300,Broadway & Barry Ave,300,41.937582,-87.644098,41.937582,-87.644098,casual,69,Fri,Aug,15,Weekday
+87E8DA6D5974833A,docked_bike,7/10/2020 19:51,7/10/2020 19:55,Clark St & Drummond Pl,220,Lakeview Ave & Fullerton Pkwy,313,41.931248,-87.644336,41.925858,-87.638973,member,4,Fri,Jul,19,Weekday
+AC6340EFDF439F87,docked_bike,6/19/2020 14:16,6/19/2020 14:40,Michigan Ave & Ida B Wells Dr,45,Wells St & Polk St,175,41.876243,-87.624426,41.872596,-87.633502,casual,24,Fri,Jun,14,Weekday
+B9D85E708D268B38,docked_bike,8/7/2020 19:32,8/7/2020 20:13,Rush St & Hubbard St,125,Wells St & Elm St,182,41.890173,-87.626185,41.903222,-87.634324,member,41,Fri,Aug,19,Weekday
+BF0FD05B1CCB2A01,docked_bike,11/6/2020 12:23,11/6/2020 12:32,Michigan Ave & 14th St,168,Michigan Ave & Madison St,197,41.864059,-87.623727,41.882134,-87.625125,member,9,Fri,Nov,12,Weekday
+AD15715139A3A96B,docked_bike,11/6/2020 11:24,11/6/2020 11:46,Wabash Ave & Wacker Pl,194,Wabash Ave & Grand Ave,199,41.886875,-87.62603,41.891466,-87.626761,casual,22,Fri,Nov,11,Weekday
+DA3C21352B5124A1,docked_bike,11/20/2020 16:44,11/20/2020 16:49,Calumet Ave & 51st St,415,Prairie Ave & Garfield Blvd,204,41.802294,-87.618053,41.794853,-87.618691,member,5,Fri,Nov,16,Weekday
+0AE5872839511258,docked_bike,7/24/2020 19:19,7/24/2020 19:31,Western Ave & Winnebago Ave,116,California Ave & Francis Pl (Temp),259,41.91552,-87.687022,41.91849115,-87.6974228,member,12,Fri,Jul,19,Weekday
+CD478E574305C3A2,docked_bike,7/31/2020 10:18,7/31/2020 10:44,Halsted St & Willow St,224,Michigan Ave & 18th St,273,41.913865,-87.648755,41.857813,-87.62455,member,26,Fri,Jul,10,Weekday
+3BAF58B2F18EC9F2,docked_bike,7/31/2020 15:06,7/31/2020 15:32,Southport Ave & Wellington Ave,153,Theater on the Lake,177,41.935733,-87.663576,41.926277,-87.630834,casual,26,Fri,Jul,15,Weekday
+BCFEDFDCFEC820B8,docked_bike,7/31/2020 14:23,7/31/2020 14:35,Larrabee St & Webster Ave,144,Broadway & Cornelia Ave,303,41.921822,-87.64414,41.945529,-87.646439,member,12,Fri,Jul,14,Weekday
+F91922738D56E4B9,electric_bike,10/23/2020 7:54,10/23/2020 8:00,Ada St & Washington Blvd,346,Wacker Dr & Washington St,18,41.88286483,-87.66124117,41.88304633,-87.63757917,member,6,Fri,Oct,7,Weekday
+EC4F78FE9EA60DC1,docked_bike,10/23/2020 16:20,10/23/2020 16:40,Field Museum,97,Fort Dearborn Dr & 31st St,150,41.865312,-87.617867,41.838556,-87.608218,casual,20,Fri,Oct,16,Weekday
+6DE56214D159D919,docked_bike,1/3/2020 17:18,1/3/2020 17:26,Ravenswood Ave & Lawrence Ave,344,Winchester (Ravenswood) Ave & Balmoral Ave,462,41.9691,-87.6742,41.9798,-87.6775,member,8,Fri,Jan,17,Weekday
+0C2AF06AA2562E62,docked_bike,8/28/2020 13:40,8/28/2020 13:59,Morgan St & 31st St,280,Wentworth Ave & Cermak Rd,120,41.8378,-87.65114,41.85308456,-87.6319313,member,19,Fri,Aug,13,Weekday
+AC956305553FEE9C,electric_bike,8/28/2020 20:21,8/28/2020 21:24,Pulaski Rd & Eddy St (Temp),488,Keystone Ave & Montrose Ave,495,41.94625817,-87.73105567,41.96108983,-87.72894583,casual,63,Fri,Aug,20,Weekday
+567CED1F6DC9E4C2,docked_bike,8/7/2020 20:48,8/7/2020 21:32,Millennium Park,90,Michigan Ave & 8th St,623,41.881031,-87.624084,41.872773,-87.623981,casual,44,Fri,Aug,20,Weekday
+136AB8C9D4293424,docked_bike,8/21/2020 10:49,8/21/2020 10:55,Rush St & Superior St,161,Michigan Ave & Lake St,52,41.895764,-87.625908,41.886024,-87.624117,member,6,Fri,Aug,10,Weekday
+A070A818D9D30795,docked_bike,8/7/2020 12:14,8/7/2020 12:17,Wood St & Augusta Blvd,657,Damen Ave & Chicago Ave,128,41.899181,-87.6722,41.895769,-87.67722,member,3,Fri,Aug,12,Weekday
+BBD9483F991A09BD,docked_bike,9/25/2020 0:24,9/25/2020 0:50,Adler Planetarium,341,Millennium Park,90,41.866095,-87.607267,41.8810317,-87.62408432,casual,26,Fri,Sep,0,Weekday
+A2921D79785513EA,docked_bike,9/4/2020 11:59,9/4/2020 12:49,Lake Shore Dr & Wellington Ave,157,McClurg Ct & Erie St,142,41.936688,-87.636829,41.894503,-87.617854,member,50,Fri,Sep,11,Weekday
+F024F17E1A7CFA3A,docked_bike,9/25/2020 9:29,9/25/2020 9:46,Green St & Randolph St,112,Mies van der Rohe Way & Chestnut St,145,41.883668,-87.64867,41.89858665,-87.62191523,member,17,Fri,Sep,9,Weekday
+66FDDB3EE1BB9873,docked_bike,8/21/2020 22:02,8/21/2020 22:04,Lakeview Ave & Fullerton Pkwy,313,Lincoln Park Conservatory,673,41.925858,-87.638973,41.92393131,-87.63582453,member,2,Fri,Aug,22,Weekday
+63BFC7B34FD4A59C,docked_bike,8/28/2020 17:24,8/28/2020 17:50,Theater on the Lake,177,Lincoln Ave & Belmont Ave,131,41.926277,-87.630834,41.939365,-87.668385,casual,26,Fri,Aug,17,Weekday
+793ABA3DB627E32D,docked_bike,8/28/2020 12:17,8/28/2020 12:28,Ravenswood Ave & Irving Park Rd,244,Sheridan Rd & Irving Park Rd,240,41.95469,-87.67393,41.954245,-87.654406,member,11,Fri,Aug,12,Weekday
+1E6F72FECC16F0DD,docked_bike,8/14/2020 16:03,8/14/2020 16:15,Wells St & Hubbard St,212,Wells St & Concord Ln,289,41.889906,-87.634266,41.912133,-87.634656,casual,12,Fri,Aug,16,Weekday
+D91DE6B2A77B928F,docked_bike,8/14/2020 18:09,8/14/2020 18:28,Wilton Ave & Diversey Pkwy,13,Sheridan Rd & Montrose Ave,231,41.932418,-87.652705,41.96167,-87.65464,member,19,Fri,Aug,18,Weekday
+154B0511CB084AEF,docked_bike,7/3/2020 11:27,7/3/2020 11:30,Clark St & Wellington Ave,156,Sheffield Ave & Wellington Ave,115,41.936497,-87.647539,41.936266,-87.652662,member,3,Fri,Jul,11,Weekday
+4FC3DA51E0844766,docked_bike,6/12/2020 14:45,6/12/2020 15:50,Rhodes Ave & 32nd St,263,Rhodes Ave & 32nd St,263,41.836208,-87.613533,41.836208,-87.613533,casual,65,Fri,Jun,14,Weekday
+338ABFEE0E2F957B,docked_bike,6/19/2020 20:15,6/19/2020 20:36,Halsted St & Roscoe St,299,Larrabee St & Oak St,364,41.94367,-87.64895,41.90021949,-87.64298547,member,21,Fri,Jun,20,Weekday
+7B06B8B02C220DB2,docked_bike,6/5/2020 18:42,6/5/2020 19:06,Ogden Ave & Roosevelt Rd,434,Peoria St & Jackson Blvd,134,41.866501,-87.684697,41.8776416,-87.64961779,member,24,Fri,Jun,18,Weekday
+367E51C754071A48,docked_bike,6/5/2020 10:42,6/5/2020 11:02,LaSalle St & Jackson Blvd,283,Wabash Ave & Cermak Rd,42,41.878166,-87.631929,41.852619,-87.626488,member,20,Fri,Jun,10,Weekday
+8C231998AF5D9562,docked_bike,6/5/2020 8:18,6/5/2020 8:41,California Ave & Francis Pl (Temp),259,Halsted St & Clybourn Ave,331,41.918491,-87.697422,41.909668,-87.648128,member,23,Fri,Jun,8,Weekday
+50277BB2ECFC8526,docked_bike,6/12/2020 13:15,6/12/2020 13:32,Halsted St & Dickens Ave,225,Halsted St & Roscoe St,299,41.919936,-87.64883,41.94367,-87.64895,casual,17,Fri,Jun,13,Weekday
+BD34152A2FF2D9E1,docked_bike,8/7/2020 9:38,8/7/2020 9:47,Dorchester Ave & 49th St,416,University Ave & 57th St,423,41.805772,-87.592464,41.791478,-87.599861,casual,9,Fri,Aug,9,Weekday
+6A8E76907FB76BC9,docked_bike,8/21/2020 9:25,8/21/2020 9:36,Francisco Ave & Foster Ave,471,Lincoln Ave & Sunnyside Ave,243,41.975632,-87.701419,41.963004,-87.684781,member,11,Fri,Aug,9,Weekday
+D3591AFE322E8912,docked_bike,11/6/2020 14:41,11/6/2020 14:58,Pine Grove Ave & Waveland Ave,232,Damen Ave & Foster Ave,464,41.949472,-87.646452,41.9756148,-87.67945904,casual,17,Fri,Nov,14,Weekday
+E3E05C0550270733,docked_bike,7/17/2020 21:09,7/17/2020 21:46,Buckingham Fountain,2,Southport Ave & Wellington Ave,153,41.876511,-87.620548,41.935733,-87.663576,member,37,Fri,Jul,21,Weekday
+528A09FD8160C8BC,docked_bike,7/31/2020 8:53,7/31/2020 9:12,Wells St & Hubbard St,212,Dearborn St & Van Buren St,624,41.889906,-87.634266,41.876268,-87.629155,member,19,Fri,Jul,8,Weekday
+F43FB58552945D06,electric_bike,9/11/2020 12:11,9/11/2020 12:21,Halsted St & Roscoe St,299,Bissell St & Armitage Ave,113,41.94366383,-87.6489625,41.9183155,-87.65212583,member,10,Fri,Sep,12,Weekday
+9F2DA21E1BD644E5,docked_bike,9/11/2020 18:13,9/11/2020 18:49,Clark St & Wrightwood Ave,340,California Ave & Milwaukee Ave,123,41.929546,-87.643118,41.922695,-87.697153,member,36,Fri,Sep,18,Weekday
+521E416AEF7F6ADA,docked_bike,9/18/2020 13:15,9/18/2020 13:39,Orleans St & Merchandise Mart Plaza,100,Southport Ave & Wrightwood Ave,190,41.888243,-87.63639,41.928773,-87.663913,member,24,Fri,Sep,13,Weekday
+43A88FB256D36B04,docked_bike,9/18/2020 15:37,9/18/2020 15:51,Rush St & Superior St,161,Wabash Ave & Wacker Pl,194,41.895764,-87.625908,41.886875,-87.62603,member,14,Fri,Sep,15,Weekday
+CCDD7DF6486FDFB8,docked_bike,9/4/2020 11:22,9/4/2020 11:32,Burling St (Halsted) & Diversey Pkwy (Temp),332,Southport Ave & Waveland Ave,227,41.93314,-87.64776,41.94815,-87.66394,member,10,Fri,Sep,11,Weekday
+F3B051689BACB678,docked_bike,8/14/2020 21:03,8/14/2020 21:14,Lincoln Ave & Fullerton Ave,127,Sedgwick St & Schiller St,236,41.925905,-87.64926,41.907626,-87.638566,member,11,Fri,Aug,21,Weekday
+B35AE53DCC98550F,docked_bike,9/4/2020 14:00,9/4/2020 14:22,Lake Shore Dr & Belmont Ave,334,Lakefront Trail & Bryn Mawr Ave,459,41.940775,-87.639192,41.9840367,-87.65231047,casual,22,Fri,Sep,14,Weekday
+7C1E57E516DAC9D0,electric_bike,9/18/2020 8:45,9/18/2020 8:50,Columbus Dr & Randolph St,195,Wells St & Hubbard St,212,41.884337,-87.61949467,41.88980367,-87.63380267,member,5,Fri,Sep,8,Weekday
+F8773CA9FC149C93,docked_bike,9/18/2020 15:17,9/18/2020 15:53,Damen Ave & Clybourn Ave,163,Damen Ave & Leland Ave,242,41.931931,-87.677856,41.967094,-87.679028,member,36,Fri,Sep,15,Weekday
+7254D768BA93096B,docked_bike,9/18/2020 12:52,9/18/2020 13:22,Wabash Ave & Roosevelt Rd,59,Indiana Ave & Roosevelt Rd,255,41.867227,-87.625961,41.867888,-87.623041,casual,30,Fri,Sep,12,Weekday
+7F9408C2E800E3C4,docked_bike,9/4/2020 22:48,9/4/2020 23:04,Stetson Ave & South Water St,264,Wabash Ave & Wacker Pl,194,41.886835,-87.62232,41.886875,-87.62603,casual,16,Fri,Sep,22,Weekday
+0E33DFAAEC6642B4,docked_bike,9/4/2020 7:46,9/4/2020 8:01,Sheffield Ave & Wellington Ave,115,Pine Grove Ave & Irving Park Rd,254,41.936266,-87.652662,41.954383,-87.648043,casual,15,Fri,Sep,7,Weekday
+068F22A6BE74079D,docked_bike,7/3/2020 15:16,7/3/2020 15:38,State St & Kinzie St,47,Clark St & Lincoln Ave,141,41.889187,-87.627754,41.915689,-87.6346,casual,22,Fri,Jul,15,Weekday
+17DA21A6F4E1777A,docked_bike,6/12/2020 7:13,6/12/2020 7:19,Ada St & Washington Blvd,346,Wacker Dr & Washington St,18,41.88283,-87.661206,41.883132,-87.637321,member,6,Fri,Jun,7,Weekday
+61875562051D2C6A,docked_bike,8/7/2020 11:23,8/7/2020 11:55,Stockton Dr & Wrightwood Ave,324,Kedzie Ave & Milwaukee Ave,260,41.93132,-87.638742,41.929567,-87.707857,member,32,Fri,Aug,11,Weekday
+951608EC24E6F6E0,docked_bike,11/6/2020 14:43,11/6/2020 14:50,Clark St & Leland Ave,326,Clark St & Berwyn Ave,463,41.967096,-87.667429,41.97799665,-87.6680471,member,7,Fri,Nov,14,Weekday
+A649DF924AEFE759,docked_bike,7/17/2020 19:57,7/17/2020 20:21,Clark St & Randolph St,51,Clark St & Randolph St,51,41.884576,-87.63189,41.884576,-87.63189,casual,24,Fri,Jul,19,Weekday
+4335671503E1A823,docked_bike,7/24/2020 17:55,7/24/2020 18:06,Wilton Ave & Diversey Pkwy,13,Clark St & Armitage Ave,94,41.932418,-87.652705,41.918306,-87.636282,casual,11,Fri,Jul,17,Weekday
+D1553C9C88927D68,docked_bike,7/24/2020 8:17,7/24/2020 8:32,Sedgwick St & Schiller St,236,Canal St & Madison St,174,41.907626,-87.638566,41.882091,-87.639833,casual,15,Fri,Jul,8,Weekday
+0B398C358B02CFC5,docked_bike,7/24/2020 22:40,7/24/2020 22:49,Broadway & Waveland Ave,304,Burling St (Halsted) & Diversey Pkwy (Temp),332,41.949074,-87.648636,41.93314,-87.64776,member,9,Fri,Jul,22,Weekday
+0620052B6028A056,electric_bike,10/30/2020 21:37,10/30/2020 21:43,Halsted St & Roscoe St,299,Racine Ave & Belmont Ave,226,41.94369867,-87.64892583,41.9397655,-87.658878,member,6,Fri,Oct,21,Weekday
+F45DFB79CDD7C79D,docked_bike,10/2/2020 17:17,10/2/2020 17:37,Sheffield Ave & Kingsbury St,20,Southport Ave & Waveland Ave,227,41.910522,-87.653106,41.94815,-87.66394,member,20,Fri,Oct,17,Weekday
+DF27DB217BDAA577,electric_bike,10/30/2020 15:49,10/30/2020 16:02,Larrabee St & Kingsbury St,48,Stetson Ave & South Water St,264,41.89771683,-87.6431145,41.88643933,-87.62409617,member,13,Fri,Oct,15,Weekday
+41A7F37E5B31AFDB,docked_bike,2/14/2020 21:07,2/14/2020 21:15,Cityfront Plaza Dr & Pioneer Ct,196,Lake Shore Dr & Ohio St,99,41.8906,-87.6221,41.8926,-87.6145,member,8,Fri,Feb,21,Weekday
+454BE00A1BEE6347,docked_bike,1/3/2020 17:15,1/3/2020 17:18,Damen Ave & Pierce Ave,69,Damen Ave & Division St,130,41.9094,-87.6777,41.9033,-87.6784,member,3,Fri,Jan,17,Weekday
+F4CDD01565019C49,docked_bike,2/14/2020 10:50,2/14/2020 11:19,Wood St & Taylor St,317,Indiana Ave & 26th St,147,41.8692,-87.671,41.8457,-87.6225,member,29,Fri,Feb,10,Weekday
+F89A52EAB8CC98CD,docked_bike,2/28/2020 7:33,2/28/2020 7:54,Carpenter St & Huron St,92,Paulina St & 18th St,205,41.8946,-87.6534,41.8579,-87.6687,member,21,Fri,Feb,7,Weekday
+478D27D4E94EF2BB,docked_bike,8/28/2020 21:19,8/28/2020 21:34,Millennium Park,90,State St & Kinzie St,47,41.881032,-87.624084,41.889187,-87.627754,casual,15,Fri,Aug,21,Weekday
+3A98F04D7E939D86,docked_bike,8/21/2020 18:41,8/21/2020 18:55,Racine Ave & 35th St,367,May St & Cullerton St,171,41.830696,-87.655976,41.855136,-87.654127,casual,14,Fri,Aug,18,Weekday
+C90C5E4F984DE955,docked_bike,8/14/2020 8:53,8/14/2020 9:14,Damen Ave & Cortland St,219,Ashland Ave & 13th St,275,41.915983,-87.677335,41.865234,-87.666507,member,21,Fri,Aug,8,Weekday
+56A5B13452DA092D,docked_bike,9/25/2020 14:15,9/25/2020 15:00,South Shore Dr & 71st St,12,63rd St Beach,101,41.766409,-87.565687,41.78101637,-87.57611976,member,45,Fri,Sep,14,Weekday
+33BD4D59A07F881F,docked_bike,9/18/2020 17:58,9/18/2020 18:25,Mies van der Rohe Way & Chicago Ave,173,California Ave & Cortez St,622,41.89691,-87.621743,41.900363,-87.696704,casual,27,Fri,Sep,17,Weekday
+571CADEB5B4F93B6,electric_bike,9/25/2020 9:33,9/25/2020 9:39,Orleans St & Hubbard St,636,Dearborn Pkwy & Delaware Pl,140,41.88987867,-87.636857,41.898542,-87.63022617,casual,6,Fri,Sep,9,Weekday
+1C2282C5F5000F5C,electric_bike,9/11/2020 18:06,9/11/2020 18:23,Ritchie Ct & Banks St,180,Lincoln Ave & Diversey Pkwy,152,41.906873,-87.62625267,41.93223417,-87.65853517,casual,17,Fri,Sep,18,Weekday
+928B35E8FCD14996,docked_bike,8/14/2020 20:48,8/14/2020 20:58,Sheffield Ave & Willow St,93,Clark St & Armitage Ave,94,41.913688,-87.652855,41.918306,-87.636282,member,10,Fri,Aug,20,Weekday
+A50C2CF1028E467C,docked_bike,7/3/2020 18:16,7/3/2020 18:33,Lake Shore Dr & North Blvd,268,Orleans St & Chestnut St (NEXT Apts),620,41.911722,-87.626804,41.898203,-87.637536,casual,17,Fri,Jul,18,Weekday
+4AB43A0E8BC37BC3,docked_bike,6/26/2020 8:59,6/26/2020 9:11,Indiana Ave & Roosevelt Rd,255,State St & Kinzie St,47,41.867888,-87.623041,41.889187,-87.627754,casual,12,Fri,Jun,8,Weekday
+E333B7B36EB2A86D,docked_bike,6/26/2020 7:41,6/26/2020 8:00,Halsted St & Dickens Ave,225,McClurg Ct & Erie St,142,41.919936,-87.64883,41.894503,-87.617854,member,19,Fri,Jun,7,Weekday
+823462A8B68369B6,docked_bike,8/14/2020 16:23,8/14/2020 17:12,Lake Shore Dr & Monroe St,76,Lake Shore Dr & Monroe St,76,41.880958,-87.616743,41.880958,-87.616743,casual,49,Fri,Aug,16,Weekday
+01ED83F33656D746,docked_bike,8/21/2020 10:18,8/21/2020 12:19,Halsted St & Wrightwood Ave,349,Halsted St & Wrightwood Ave,349,41.929143,-87.649077,41.929143,-87.649077,casual,121,Fri,Aug,10,Weekday
+2A2D108590A400A7,docked_bike,10/16/2020 17:18,10/16/2020 17:25,Sedgwick St & North Ave,118,Sheffield Ave & Kingsbury St,20,41.911386,-87.638677,41.910522,-87.653106,member,7,Fri,Oct,17,Weekday
+7220846460C2938C,docked_bike,1/17/2020 14:21,1/17/2020 14:32,Morgan St & Lake St,71,Artesian Ave & Hubbard St,376,41.8855,-87.6523,41.8895,-87.6882,member,11,Fri,Jan,14,Weekday
+6B46846428B08DF8,docked_bike,1/10/2020 17:44,1/10/2020 17:54,State St & Kinzie St,47,Clinton St & Jackson Blvd,638,41.8892,-87.6278,41.8781,-87.6398,member,10,Fri,Jan,17,Weekday
+906DAB3D7F1E503E,docked_bike,3/20/2020 14:22,3/20/2020 14:24,Canal St & Harrison St,169,Canal St & Taylor St,414,41.8743,-87.6396,41.8703,-87.6395,member,2,Fri,Mar,14,Weekday
+447215600DDFD682,docked_bike,2/7/2020 6:15,2/7/2020 6:17,Canal St & Adams St,192,Canal St & Monroe St,191,41.8793,-87.6399,41.8817,-87.6395,casual,2,Fri,Feb,6,Weekday
+23DD0A05407E4E17,docked_bike,3/6/2020 17:56,3/6/2020 18:05,Larrabee St & Kingsbury St,48,Sangamon St & Washington Blvd,233,41.8978,-87.6429,41.8832,-87.6511,member,9,Fri,Mar,17,Weekday
+8CD4130CF5249FC2,docked_bike,8/7/2020 6:13,8/7/2020 6:21,Kingsbury St & Erie St,74,Canal St & Adams St,192,41.893808,-87.641697,41.879255,-87.639904,member,8,Fri,Aug,6,Weekday
+AEB37161D75F6E7A,docked_bike,9/25/2020 15:50,9/25/2020 16:02,Clark St & Winnemac Ave,325,Lakefront Trail & Wilson Ave,639,41.973304,-87.669702,41.965845,-87.645361,member,12,Fri,Sep,15,Weekday
+73C1FCC71CADFFF5,docked_bike,9/25/2020 11:24,9/25/2020 11:52,Western Ave & Monroe St,381,Damen Ave & Chicago Ave,128,41.879787,-87.686112,41.895769,-87.67722,casual,28,Fri,Sep,11,Weekday
+678033901F7DAFCE,docked_bike,9/18/2020 18:55,9/18/2020 19:27,Indiana Ave & Roosevelt Rd,255,Clinton St & 18th St,170,41.867888,-87.623041,41.85795,-87.640826,member,32,Fri,Sep,18,Weekday
+5D3F08910140A7E5,docked_bike,9/11/2020 16:08,9/11/2020 16:33,Southport Ave & Wrightwood Ave,190,Mies van der Rohe Way & Chicago Ave,173,41.928773,-87.663913,41.89691,-87.621743,member,25,Fri,Sep,16,Weekday
+DB6FD81F5F447ADB,docked_bike,8/7/2020 14:50,8/7/2020 15:15,May St & Taylor St,22,900 W Harrison St,109,41.869482,-87.655486,41.874754,-87.649807,member,25,Fri,Aug,14,Weekday
+605BBEB4FC93B8A3,docked_bike,8/14/2020 12:22,8/14/2020 12:24,Lincoln Ave & Fullerton Ave,127,Sheffield Ave & Fullerton Ave,67,41.925905,-87.64926,41.92560188,-87.65370804,member,2,Fri,Aug,12,Weekday
+8C5FEAD68D4589AC,docked_bike,9/25/2020 17:44,9/25/2020 18:00,Wood St & Chicago Ave,637,Elizabeth (May) St & Fulton St,217,41.895634,-87.672069,41.88661649,-87.65803993,casual,16,Fri,Sep,17,Weekday
+8BC61BF811E73A36,electric_bike,9/25/2020 8:53,9/25/2020 9:09,California Ave & Fletcher St,498,Ashland Ave & Division St,210,41.938386,-87.69810883,41.90345817,-87.66780217,member,16,Fri,Sep,8,Weekday
+9CF0B7B0EA7EC6DD,docked_bike,4/10/2020 17:07,4/10/2020 17:28,Wood St & Augusta Blvd,657,Wabash Ave & Roosevelt Rd,59,41.8992,-87.6722,41.8672,-87.626,member,21,Fri,Apr,17,Weekday
+EC37D6880722870D,docked_bike,4/10/2020 15:53,4/10/2020 15:59,Clinton St & Madison St,77,Orleans St & Merchandise Mart Plaza,100,41.8822,-87.6411,41.8882,-87.6364,member,6,Fri,Apr,15,Weekday
+3C0725115E169F39,docked_bike,4/24/2020 6:17,4/24/2020 6:27,Ashland Ave & Augusta Blvd,30,Ogden Ave & Congress Pkwy,122,41.8996,-87.6677,41.875,-87.6733,member,10,Fri,Apr,6,Weekday
+4A7E97F521B61805,docked_bike,7/3/2020 5:52,7/3/2020 6:17,McClurg Ct & Erie St,142,Calumet Ave & 18th St,338,41.894503,-87.617854,41.857611,-87.619407,casual,25,Fri,Jul,5,Weekday
+F108859CD6E958B7,docked_bike,7/10/2020 16:16,7/10/2020 16:25,Bissell St & Armitage Ave,113,Southport Ave & Wrightwood Ave,190,41.91844,-87.65222,41.928773,-87.663913,member,9,Fri,Jul,16,Weekday
+429E6F5A2077D204,docked_bike,7/10/2020 8:50,7/10/2020 9:06,Sheffield Ave & Webster Ave,327,Wells St & Huron St,53,41.92154,-87.653818,41.894722,-87.634362,member,16,Fri,Jul,8,Weekday
+E0000D495BA1F687,docked_bike,6/5/2020 9:07,6/5/2020 9:24,Clark St & Wrightwood Ave,340,Elston Ave & Wabansia Ave,315,41.929546,-87.643118,41.912919,-87.664169,member,17,Fri,Jun,9,Weekday
+45193AF9233AA43F,docked_bike,2/28/2020 16:55,2/28/2020 17:03,Halsted St & Archer Ave,206,Halsted St & 37th St,262,41.8472,-87.6468,41.8271,-87.6457,member,8,Fri,Feb,16,Weekday
+A7D72E32090BC668,docked_bike,1/17/2020 7:11,1/17/2020 7:29,Wells St & Concord Ln,289,Franklin St & Monroe St,287,41.9121,-87.6347,41.8803,-87.6352,member,18,Fri,Jan,7,Weekday
+F319EFD9B8385B48,docked_bike,1/17/2020 16:17,1/17/2020 16:23,Dearborn St & Monroe St,49,Federal St & Polk St,41,41.8813,-87.6295,41.8721,-87.6295,member,6,Fri,Jan,16,Weekday
+021C03A4BCBBECA3,docked_bike,1/31/2020 16:50,1/31/2020 16:53,Franklin St & Jackson Blvd,36,Clinton St & Tilden St,68,41.8777,-87.6353,41.8759,-87.6408,member,3,Fri,Jan,16,Weekday
+B72FD018149AB9C9,docked_bike,1/3/2020 15:51,1/3/2020 16:02,McClurg Ct & Illinois St,26,Kingsbury St & Erie St,74,41.8904,-87.6175,41.8938,-87.6417,member,11,Fri,Jan,15,Weekday
+4EC778D836643F3A,docked_bike,1/24/2020 6:12,1/24/2020 6:19,Wells St & Polk St,175,Clinton St & Madison St,77,41.8726,-87.6335,41.8822,-87.6411,member,7,Fri,Jan,6,Weekday
+EE6E8158576DA083,docked_bike,2/21/2020 17:00,2/21/2020 17:15,Wabash Ave & Adams St,39,Calumet Ave & 18th St,338,41.8795,-87.6257,41.8576,-87.6194,member,15,Fri,Feb,17,Weekday
+380A1428C848DA96,docked_bike,1/17/2020 11:54,1/17/2020 12:00,Ellis Ave & 58th St,328,Lake Park Ave & 56th St,345,41.7887,-87.6013,41.7932,-87.5878,member,6,Fri,Jan,11,Weekday
+972DBC8807FE8086,docked_bike,5/29/2020 10:43,5/29/2020 10:48,Wells St & Elm St,182,Larrabee St & Division St,359,41.9032,-87.6343,41.9035,-87.6434,member,5,Fri,May,10,Weekday
+F54DEF0EBC93ADD1,docked_bike,5/22/2020 8:16,5/22/2020 8:49,Buckingham Fountain,2,Buckingham Fountain,2,41.8765,-87.6205,41.8765,-87.6205,member,33,Fri,May,8,Weekday
+5A52678CCEA63FAA,docked_bike,5/8/2020 15:41,5/8/2020 15:43,Sheridan Rd & Lawrence Ave,323,Winthrop Ave & Lawrence Ave,253,41.9695,-87.6547,41.9688,-87.6577,member,2,Fri,May,15,Weekday
+32573201E286F7F2,docked_bike,11/13/2020 12:29,11/13/2020 12:40,Smith Park,643,Ogden Ave & Race Ave,186,41.892048,-87.689397,41.891795,-87.658751,member,11,Fri,Nov,12,Weekday
+DFC28889914C1DB8,electric_bike,10/30/2020 23:48,10/31/2020 0:57,Honore St & Division St,17,Millennium Park,90,41.90314983,-87.67381317,41.88115933,-87.62409417,casual,69,Fri,Oct,23,Weekday
+6A2471EBC4334376,electric_bike,10/9/2020 20:45,10/9/2020 21:02,Bissell St & Armitage Ave,113,Wells St & Hubbard St,212,41.91849517,-87.65227633,41.8903055,-87.6342185,member,17,Fri,Oct,20,Weekday
+4D102C7DFB69ED4C,docked_bike,10/30/2020 6:46,10/30/2020 7:09,Wabash Ave & Roosevelt Rd,59,Hermitage Ave & Polk St,261,41.867227,-87.625961,41.871514,-87.669886,member,23,Fri,Oct,6,Weekday
+DB5942B56859E9BA,docked_bike,10/9/2020 19:00,10/9/2020 19:15,Loomis St & Jackson Blvd,146,Western Ave & Monroe St,381,41.877945,-87.662007,41.87978771,-87.68611281,casual,15,Fri,Oct,19,Weekday
+F4872853EE36E3E3,docked_bike,9/11/2020 16:27,9/11/2020 16:30,Clark St & Armitage Ave,94,Wells St & Concord Ln,289,41.918306,-87.636282,41.912133,-87.634656,member,3,Fri,Sep,16,Weekday
+2A21FE30F7B9284A,docked_bike,9/11/2020 23:12,9/11/2020 23:20,Ashland Ave & Blackhawk St,333,Dayton St & North Ave,60,41.907066,-87.667252,41.91057803,-87.64942193,member,8,Fri,Sep,23,Weekday
+4AAA59FEED070E01,docked_bike,7/17/2020 20:33,7/17/2020 20:47,LaSalle St & Illinois St,181,Streeter Dr & Grand Ave,35,41.890762,-87.631697,41.892278,-87.612043,casual,14,Fri,Jul,20,Weekday
+417B263B6624BCAC,docked_bike,7/31/2020 23:24,7/31/2020 23:45,Albany Ave & Bloomingdale Ave,511,Leavitt St & Division St,658,41.914027,-87.705126,41.902997,-87.683825,casual,21,Fri,Jul,23,Weekday
+996DC92AB6E57204,docked_bike,4/17/2020 21:36,4/17/2020 21:43,Clark St & Drummond Pl,220,Burling St (Halsted) & Diversey Pkwy (Temp),332,41.9312,-87.6443,41.9331,-87.6478,casual,7,Fri,Apr,21,Weekday
+0BB517E129266D32,classic_bike,12/18/2020 17:14,12/18/2020 17:25,Clinton St & Lake St,13021,Orleans St & Chestnut St (NEXT Apts),620,41.885637,-87.641823,41.898203,-87.637536,member,11,Fri,Dec,17,Weekday
+D44AF41B89900149,docked_bike,7/3/2020 20:24,7/3/2020 20:49,Dorchester Ave & 63rd St,428,Cottage Grove Ave & 67th St,429,41.780405,-87.591415,41.77372095,-87.60563486,member,25,Fri,Jul,20,Weekday
+DA2ED0B198FCDD60,docked_bike,7/31/2020 19:25,7/31/2020 19:33,Michigan Ave & Lake St,52,Wabash Ave & 9th St,321,41.886024,-87.624117,41.870769,-87.625734,member,8,Fri,Jul,19,Weekday
+5791C5C4BEBF8DC8,docked_bike,7/17/2020 23:30,7/17/2020 23:49,Broadway & Argyle St,295,Glenwood Ave & Touhy Ave,525,41.973815,-87.65966,42.012701,-87.666058,member,19,Fri,Jul,23,Weekday
+6E74E8B85F96614A,docked_bike,7/3/2020 22:17,7/3/2020 23:16,Millennium Park,90,Millennium Park,90,41.881032,-87.624084,41.881032,-87.624084,casual,59,Fri,Jul,22,Weekday
+BF115D22F1674635,docked_bike,6/12/2020 18:47,6/12/2020 19:04,Calumet Ave & 18th St,338,Michigan Ave & 14th St,168,41.857611,-87.619407,41.864059,-87.623727,member,17,Fri,Jun,18,Weekday
+76466CD2E71EB285,docked_bike,6/19/2020 18:29,6/19/2020 18:59,Ritchie Ct & Banks St,180,Larrabee St & Webster Ave,144,41.906866,-87.626217,41.921822,-87.64414,casual,30,Fri,Jun,18,Weekday
+5B0F6320DF3A36AC,docked_bike,1/10/2020 8:04,1/10/2020 8:10,Wacker Dr & Washington St,18,Michigan Ave & Washington St,43,41.8831,-87.6373,41.884,-87.6247,member,6,Fri,Jan,8,Weekday
+07A47B0A49067070,docked_bike,2/7/2020 8:21,2/7/2020 8:45,Wilton Ave & Diversey Pkwy,13,Clark St & Randolph St,51,41.9324,-87.6527,41.8846,-87.6319,member,24,Fri,Feb,8,Weekday
+8CE4831206646648,docked_bike,2/14/2020 2:11,2/14/2020 2:18,Southport Ave & Belmont Ave,154,Burling St (Halsted) & Diversey Pkwy (Temp),332,41.9395,-87.6638,41.9331,-87.6478,member,7,Fri,Feb,2,Weekday
+4621B57E2AE5E9DD,docked_bike,3/6/2020 7:24,3/6/2020 7:35,Ashland Ave & Wrightwood Ave,166,Burling St (Halsted) & Diversey Pkwy (Temp),332,41.9288,-87.6685,41.9331,-87.6478,member,11,Fri,Mar,7,Weekday
+9234E24B281AC4A9,docked_bike,2/7/2020 7:52,2/7/2020 7:58,LaSalle St & Jackson Blvd,283,Clinton St & Madison St,77,41.8782,-87.6319,41.8822,-87.6411,member,6,Fri,Feb,7,Weekday
+21E8D871C96F896E,docked_bike,5/15/2020 17:26,5/15/2020 18:03,Clark St & Berwyn Ave,463,Clark St & Winnemac Ave,325,41.978,-87.668,41.9733,-87.6678,member,37,Fri,May,17,Weekday
+A7D274B6951BE25B,docked_bike,5/29/2020 8:53,5/29/2020 8:58,Broadway & Sheridan Rd,256,Wilton Ave & Belmont Ave,117,41.9528,-87.65,41.9402,-87.653,member,5,Fri,May,8,Weekday
+A531014D32824AAD,docked_bike,5/1/2020 16:08,5/1/2020 16:30,Wabash Ave & Grand Ave,199,Elston Ave & Wabansia Ave,315,41.8915,-87.6268,41.9129,-87.6642,casual,22,Fri,May,16,Weekday
+7D46F6E77E4DFB69,docked_bike,5/29/2020 14:48,5/29/2020 14:51,Ashland Ave & Grand Ave,277,Ashland Ave & Chicago Ave,350,41.8911,-87.6666,41.896,-87.6677,member,3,Fri,May,14,Weekday
+D272B413C41D4BDA,docked_bike,5/29/2020 19:16,5/29/2020 19:38,Broadway & Thorndale Ave,458,Clark St & Bryn Mawr Ave,460,41.9897,-87.6601,41.9836,-87.6692,member,22,Fri,May,19,Weekday
+B0A0368242551E62,docked_bike,5/22/2020 17:44,5/22/2020 18:11,Campbell Ave & North Ave,160,Central Park Ave & Elbridge Ave,500,41.9105,-87.6896,41.9353,-87.7169,casual,27,Fri,May,17,Weekday
+C79C6044DA82F773,electric_bike,11/6/2020 14:20,11/6/2020 14:23,Larrabee St & Division St,359,Larrabee St & North Ave,27,41.90349783,-87.64328967,41.91012283,-87.6435235,member,3,Fri,Nov,14,Weekday
+DF8D30375A4B5787,docked_bike,11/13/2020 3:51,11/13/2020 3:59,Clinton St & Jackson Blvd,638,Michigan Ave & Lake St,52,41.878116,-87.639838,41.886024,-87.624117,member,8,Fri,Nov,3,Weekday
+D01634FF618D40AE,docked_bike,10/2/2020 17:33,10/2/2020 17:47,Wells St & Hubbard St,212,Ogden Ave & Race Ave,186,41.889906,-87.634266,41.891795,-87.658751,casual,14,Fri,Oct,17,Weekday
+604D5E0CC54E233A,docked_bike,10/30/2020 17:51,10/30/2020 17:57,Lake Shore Dr & Belmont Ave,334,Clark St & Newport St,632,41.940775,-87.639192,41.94454,-87.654678,member,6,Fri,Oct,17,Weekday
+93C5E7E4E5CA6FA7,docked_bike,10/16/2020 7:44,10/16/2020 8:05,Southport Ave & Waveland Ave,227,Dayton St & North Ave,60,41.94815,-87.66394,41.910578,-87.649422,member,21,Fri,Oct,7,Weekday
+80F99CF3D76E0712,docked_bike,10/9/2020 6:56,10/9/2020 7:09,Clark St & Elm St,176,Franklin St & Monroe St,287,41.902973,-87.63128,41.880317,-87.635185,member,13,Fri,Oct,6,Weekday
+B6903E973BD0D912,docked_bike,10/16/2020 13:03,10/16/2020 13:05,LaSalle St & Jackson Blvd,283,Franklin St & Monroe St,287,41.878166,-87.631929,41.880317,-87.635185,member,2,Fri,Oct,13,Weekday
+55C1B523E448F0D6,docked_bike,9/11/2020 18:21,9/11/2020 19:10,Michigan Ave & Lake St,52,Streeter Dr & Grand Ave,35,41.886024,-87.624117,41.892278,-87.612043,casual,49,Fri,Sep,18,Weekday
+61C8E0A7C711E671,docked_bike,9/25/2020 19:53,9/25/2020 20:07,Wabash Ave & Grand Ave,199,Wells St & Evergreen Ave,291,41.891466,-87.626761,41.906724,-87.63483,casual,14,Fri,Sep,19,Weekday
+6CA825C4801D6F9F,docked_bike,4/3/2020 10:27,4/3/2020 10:54,Ravenswood Ave & Lawrence Ave,344,Lincoln Ave & Fullerton Ave,127,41.9691,-87.6742,41.9259,-87.6493,member,27,Fri,Apr,10,Weekday
+13DED95D38A26E9B,docked_bike,7/17/2020 20:38,7/17/2020 20:47,Lake Shore Dr & Diversey Pkwy,329,Halsted St & Dickens Ave,225,41.932588,-87.636427,41.919936,-87.64883,member,9,Fri,Jul,20,Weekday
