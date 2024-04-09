@@ -1,5 +1,5 @@
-#convert string data type to interger 
-#arrange the column names exactly how it is in the other datasets
+--convert string data type to interger 
+--arrange the column names exactly how it is in the other datasets
 
 SELECT
     ride_id,rideable_type,started_at,ended_at,start_station_name,
