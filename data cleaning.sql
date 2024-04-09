@@ -1,5 +1,5 @@
-#final joined data
-#extracted data
+--final joined data
+--extracted data
 SELECT ride_id, 
     EXTRACT(HOUR FROM (ended_at - started_at)) * 60 +
     EXTRACT(MINUTE FROM (ended_at - started_at)) +
@@ -32,7 +32,7 @@ SELECT ride_id,
 FROM `case-study-419113.tripdata2020_case_study.merged_data` 
 
 
-#join merged data and extracted data
+--join merged data and extracted data
 SELECT
     `case-study-419113.tripdata2020_case_study.merged_data` .ride_id,
     `case-study-419113.tripdata2020_case_study.merged_data` .rideable_type,
@@ -63,7 +63,7 @@ WHERE start_station_id IS NOT NULL
   AND end_lng IS NOT NULL
   AND ride_length >= 1 AND ride_length <= 1440
 	
-#further filtering
+--further filtering
 SELECT DISTINCT(ride_id),
                 rideable_type,started_at,ended_at,start_station_name,
                 start_station_id,end_station_name,end_station_id,
@@ -73,7 +73,7 @@ FROM `case-study-419113.tripdata2020_case_study.joined_data2`
 WHERE LENGTH(ride_id) = 16   
 
 
-#get the number of rows
+--get the number of rows
 SELECT COUNT (ride_id)
 FROM `case-study-419113.tripdata2020_case_study.final_joined_data2`
-#there are 3253617 rides
+--there are 3253617 rides
