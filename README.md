@@ -97,10 +97,11 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 * Both casual and annual members rides hit their highest point in the summer (August) and drops significantly during winter (December) and they follow the same trend with average ride length.
 
 ### Station locations
-![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/station%20locations.png)
-
+![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/station%20location.png)
+![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/Station%20location%20contd.png)
 * Casual Riders favor Streeter Dr & Grand Ave as their go-to starting and ending point for bike rides while annual members prefer Clark St & Elm St as their primary station for both starting and ending their rides.
-* Casual Riders opt for Racine Ave & 65th St when embarking on longer bike trips while annual members choose Summit Ave & 86th Str as their starting point for rides that tend to be longer in duration.
+* Casual Riders opt for Racine Ave & 65th St when embarking on longer bike trips while annual members choose Leramie Ave $ Kinzie Str as their starting point for rides that tend to be longer in duration.
+*  Hubbard St bike checkpoint is the most popular end point for longer casual rider trips and Asland Ave and 78th St is the most popular end station for annual members with longer rides. 
 * The interactive maps shows the names of each start and end locations, the start and end longitude/latitude and the number of rides associated with them.
 
 # 5. Share
@@ -129,9 +130,10 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 
 ### Start & End Stations:
 
-* Popular Stations: Casual riders most frequently use starting and ending stations close to leisure parks like the Millennium Park station and the Streeter Dr & Grand Ave which is situated near the Jane Addams Memorial Park. This confirms casual riders using cylistic for mostly leisure activities.
+* Popular Stations: Casual riders most frequently use starting and ending stations close to leisure parks like the Millennium Park station and the Streeter Dr & Grand Ave which is situated near the Jane Addams Memorial Park. This confirms casual riders using Cyclistic for mostly leisure activities.
 * Annual members: favor stations close to residential and commercial buildings like Clark St & Elm St and Wells St and Concord Ln for both start and end points confirming that they use Cyclistic more for work. 
-* Ride Length and Stations: Racine Ave & 65th St is the most popular start station and Hubbard St bike checkpoint is the most popular end point for longer casual rider trips. * * * * Annual members: Leramie Ave $ Kinzie Str is the most popular start station and Asland Ave and 78th St is the most popular end station for annual members with longer rides. 
+* Ride Length and Stations: Racine Ave & 65th St is the most popular start station and Hubbard St bike checkpoint is the most popular end point for longer casual rider trips.
+* Annual members: Leramie Ave $ Kinzie Str is the most popular start station and Asland Ave and 78th St is the most popular end station for annual members with longer rides. 
 
 # 6. Act 
 ## Recommendations
