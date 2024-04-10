@@ -56,7 +56,8 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 * I extracted the hour the ride started, the day name, day type(weekend and weekday) and month of each ride.
 * I joined these extracted data with the merged data with ride id being the primary key.
 * I filtered the data by removing all null values, ride length longer than a day and lesser than a minute, duplicate rows and ride IDs that are not 16 characters long.
-* After all these cleaning, there are 3,253,617 rows remaining meaning 288,036 rows were removed. 
+* After all these cleaning, there are 3,253,617 rows remaining meaning 288,036 rows were removed.
+* To get a snapshot of the final joined cleaned data [click here](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/final%20joined%20data(cleaned).csv)
 
 # 4. Analyze
 * I analyized number of rides, average ride length, week day, day type, hour, month, and station location broken down by each member type. [Analysis](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/data%20analysis.sql)
@@ -88,7 +89,7 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 ### Breakdown by day type
 ![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/day%20type.png)
 
-* The number of rides on weekday is more than on the weekend for both member types.
+* The number of rides on weekday is higher than rides on the weekend for both member types.
 * Both member types have longer average ride length on weekend than weekday.
 
 ### Breakdown by month
@@ -99,6 +100,7 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 ### Station locations
 ![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/station%20location.png)
 ![image](https://github.com/domeru369/cyclistic-bike-share-case-study/blob/main/sql%20extracted%20tables%20and%20tableau%20visualizations/Station%20location%20contd.png)
+
 * Casual Riders favor Streeter Dr & Grand Ave as their go-to starting and ending point for bike rides while annual members prefer Clark St & Elm St as their primary station for both starting and ending their rides.
 * Casual Riders opt for Racine Ave & 65th St when embarking on longer bike trips while annual members choose Leramie Ave $ Kinzie Str as their starting point for rides that tend to be longer in duration.
 *  Hubbard St bike checkpoint is the most popular end point for longer casual rider trips and Asland Ave and 78th St is the most popular end station for annual members with longer rides. 
@@ -110,7 +112,7 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 ### Ridership Analysis:
 
 * Membership Breakdown: There are significantly more annual members (1,989,549 rides) than casual riders (1,264,033 rides). This indicates a healthy ridership base, but there's an opportunity to attract more casual riders to become annual members.
-* Ride Length: Interestingly, casual riders have a longer average ride length (38 minutes) compared to annual members (15.27 minutes). This suggests casual riders might be using the bikes for leisure or longer commutes, while annual members might be using them for shorter trips.
+* Ride Length: Interestingly, casual riders have a longer average ride length (38 minutes) compared to annual members (15.27 minutes). This suggests casual riders might be using the bikes for leisure or longer commutes, while annual members might be using them for shorter trips to work or school
 * Bike Type: Docked bikes are the most popular choice for both member types, while classic bikes are the least used. This suggests convenience and ease of use are crucial factors for riders.
   
 
@@ -124,8 +126,9 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 * The number of rides increases for both member types in the evening (3pm-7pm), peaking at 5pm. Conversely, rides decrease at night (2am-4am). This implies a common evening commute pattern and potentially lower nighttime usage. Both member types experience longer average rides at night (1am-3am) and shorter rides in the morning (6am-7am). This might indicate leisure rides at night and quicker commutes in the mornings.
   
 #### Seasonality: 
-* Summer: Warmer weather entices both casual and annual riders to use the bikes more frequently, with both member types taking longer rides from July to September.
-* Winter: Colder temperatures discourage ridership overall, with both member types opting for shorter trips during the fall and winter months(October to February)
+* Summer: Warmer weather entices both casual and annual riders to use the bikes more frequently, with both member types taking longer rides from July to September potentially for summer vacations.
+* Spring: There are less number of riders for both groups in the spring but they tend to be more active, taking longer rides in the spring(March to May)
+* Winter and fall: Colder temperatures discourage ridership overall, with both member types opting for shorter trips during the fall and winter months(October to February)
 
 
 ### Start & End Stations:
@@ -138,10 +141,7 @@ I will use  the Cyclistic’s historical trip data to analyze and identify trend
 # 6. Act 
 ## Recommendations
 
-* Targeted Marketing Campaigns: Develop targeted marketing campaigns based on member type and usage patterns.
-* Casual Riders: Highlight the convenience and cost-effectiveness of annual memberships for frequent riders, especially those taking longer trips. Promote leisure riding opportunities during weekends and summer months.
-* Annual Members: Offer incentives for increased ridership, like discounts or rewards programs. Promote weekday riding during off-peak hours to spread usage more evenly.
-* Seasonal Promotions: Offer special promotions or discounts on annual memberships during peak ridership months (summer) to capitalize on higher ridership interest.
+* Seasonal Promotions: Promote annual memberships with attractive deals eg discounts during peak ridership months (summer and spring) to effectively convert casual riders into long-term members.
 * Weekend Discounts: Consider offering discounted rates for annual memberships activated on weekends, which aligns with casual riders' peak usage days.
 * Improved Bike Options: While docked bikes are popular, explore expanding options with electric bikes or other features that might appeal to casual riders, especially for longer trips.
 * Station Optimization: Ensure popular start and end stations, particularly those associated with longer rides (e.g., Racine Ave & 65th St), are well-maintained and have sufficient bikes available.
