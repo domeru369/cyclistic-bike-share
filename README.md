@@ -3,7 +3,7 @@
 # About the company
 Launched in 2016, Cyclistic's bike-share program has become a success story in Chicago. The program boasts a large fleet (5,824 bikes) with convenient features like geotracking and a network of 692 stations for easy pick-up and drop-off.While initial marketing focused on general awareness, Cyclistic now seeks to optimize its strategy. Data shows that annual members are more profitable for Cyclistic compared to casual riders (single-ride/day pass users).The existing pricing structure offers flexibility, but converting casual riders to annual memberships is crucial for future growth. Cyclistic plans to leverage historical bike trip data to identify trends and develop effective marketing strategies focused on converting casual riders into annual members.
 
-# Scenerio
+# Scenario
 I am assuming the role of a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago. Lily Moreno, the director of marketing, believes the key lies in maximizing the number of annual memberships.  Our marketing analyst team is committed to understanding the usage patterns of both casual riders (single-trip/day pass users) and annual members. This crucial data will fuel the development of a targeted marketing strategy aimed at converting casual riders into loyal annual members. Securing executive approval hinges on presenting compelling data insights and professional data visualizations. By analyzing historical bike trip data, we can uncover the unique ways each user group interacts with Cyclistic.
 
 # Business Task 
